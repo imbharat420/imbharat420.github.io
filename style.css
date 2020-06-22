@@ -108,8 +108,7 @@ div.collapse ul.navbar-nav li a{
   position:relative;
     overflow: hidden;
     display: block;
-    text-align: center;
-  
+    text-align: center; 
   height:85px;
   overflow-y:hidden !important ;
 }
@@ -119,6 +118,9 @@ div.collapse ul.navbar-nav li a{
       height: inherit;
       max-width: 100%;
       vertical-align: middle;
+}
+.icons span:nth-child(n+13) img{
+  max-width: 70%;
 }
 .icons span img:nth-child(2){
   opacity:0;
