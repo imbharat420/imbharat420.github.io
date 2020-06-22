@@ -3,18 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <title>Bustro</title>
-  <link rel="icon" href="https://i.ibb.co/w7nwNSd/1.png" type="image/png" sizes="16x16">
-
+  <script src="https://kit.fontawesome.com/34033c1e37.js"></script>
 <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet"><link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css'>
 <link rel='stylesheet' href='https://unpkg.com/aos@2.3.1/dist/aos.css'>
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.0.1/css/glide.theme.css'>
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.0.1/css/glide.core.css'><link rel="stylesheet" href="./style.css">
-  <script src="https://kit.fontawesome.com/34033c1e37.js"></script>
+
 </head>
 <body>
 <!-- partial:index.partial.html -->
 <body data-spy="scroll" data-target=".navbar" data-offset="10">
-
+  <div id="homeid"></div>
   <section id="navbar">
     <nav class="navbar navbar-expand-lg navbar-light bg-light shadow  bg-white rounded" id="main-navbar">
       <div class="container">
@@ -28,7 +27,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link font-weight-bold" href="#">Home</a>
+              <a class="nav-link font-weight-bold" href="#homeid">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link font-weight-bold" href="#aboutus">About us</a>
@@ -49,7 +48,7 @@
   </section>
 
   <!--Carousel Section -->
-  <section id="home" >
+  <section id="home">
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class=""></li>
@@ -93,9 +92,9 @@
     <div class="container-fluid">
       <div class="pt-3"></div>
       <div class="container py-5">
-        <h1 class="pt-3 abouttext">About Us</h1>
+        <h1 class="pt-3 text-center abouttext">About Us</h1>
         <div class="row">
-          <div class="col border py-5"></div>
+          <div class="col border py-1"></div>
           <div class="col border py-5">
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda illum officia vero ipsa, nesciunt soluta mollitia, accusantium dignissimos quisquam tempore iusto temporibus? Itaque repudiandae totam facere quos ut? Illo, earum.
               Delectus voluptate harum consequuntur perspiciatis esse repellendus, blanditiis ullam, fugiat a nam obcaecati ipsa odio repudiandae minima inventore. Perferendis a tenetur minus rerum ullam provident mollitia animi id accusamus natus.
@@ -187,7 +186,28 @@
       </div>
     </div>
   </section>
-<section></section>
+<section id="level">
+  <div class="container-fluid bg-success">
+    <div class="d-flex flex-wrap py-3">
+      <div class="col-md-3 col-6 mb-3 d-flex justify-content-center align-items-center">
+        <img src="https://i.ibb.co/DMGQ4HC/level-1-1.png" alt="level-1-1" border="0">
+        <h4 class="pl-2 text-white">Level 1</h4>
+      </div>
+      <div class="col-md-3 col-6 mb-3 d-flex justify-content-center align-items-center">
+       <img src="https://i.ibb.co/9HKhkjC/level-2-1.png" alt="level-2-1" border="0">
+         <h4 class="pl-2 text-white">Level 2</h4>
+      </div>
+      <div class="col-md-3 col-6 mb-3 d-flex justify-content-center align-items-center">
+       <img src="https://i.ibb.co/xShdpyJ/level-3.png" alt="level-3" border="0">
+         <h4 class="pl-2 text-white">Level 3</h4>
+      </div>
+      <div class="col-md-3 col-6 mb-3 d-flex justify-content-center align-items-center">
+       <img src="https://i.ibb.co/KmPGNdc/level-4-1.png" alt="level-4-1" border="0">
+         <h4 class="pl-2 text-white">Level 4</h4>
+      </div>
+    </div>
+  </div>
+</section>
   <section id="solution">
     <div class="container-fluid mt-5 ">
       <div class="container mt-5" style="overflow:hidden">
@@ -268,8 +288,8 @@
           <h2 class="py-2">Our mission:</h2>
           <h4 class="text-white font-weight-bold mb-3">Make the world cleaner, save natural resources, create comfort for people</h4>
         </div>
-        <div class="col-md-1 col-12 pt-5 mr-5 ml-auto">
-          <img src="https://i.ibb.co/4VbFmQ3/mission-bg-leaves.png" class="d-md-inline-block leaves">
+        <div class="col-md-5 d-flex justify-content-end   col-12 pt-5 mr-auto">
+          <img src="https://i.ibb.co/4VbFmQ3/mission-bg-leaves.png" class="d-inline-block leaves">
         </div>
       </div>
     </div>
@@ -300,7 +320,7 @@
           <div class="glide__slides">
             <div class="glide__slide">
               <div class="card py-1 mx-auto">
-                <span class="position-absolute bg-success p-3 font-weight-bolder text-white mx-3 my-2">Eleactric Cars</span>
+                <span class="position-absolute bg-success p-2 font-weight-bolder text-white mx-3 my-2">Eleactric Cars</span>
                 <div class="card-image">
                   <img class="card-img-top" src="">
                 </div>
@@ -316,7 +336,7 @@
             </div>
             <div class="glide__slide">
               <div class="card py-1  mx-auto">
-                <span class="position-absolute bg-success p-3 font-weight-bolder text-white mx-3 my-2">Eleactric Cars</span>
+                <span class="position-absolute bg-success p-2 font-weight-bolder text-white mx-3 my-2">Eleactric Cars</span>
                 <div class="card-image">
                   <img class="card-img-top" src="">
                 </div>
@@ -332,7 +352,7 @@
             </div>
             <div class="glide__slide">
               <div class="card py-1 mx-auto">
-                <span class="position-absolute bg-success p-3 font-weight-bolder text-white mx-3 my-2">Eleactric Cars</span>
+                <span class="position-absolute bg-success p-2 font-weight-bolder text-white mx-3 my-2">Eleactric Cars</span>
                 <div class="card-image">
                   <img class="card-img-top" src="">
                 </div>
@@ -348,7 +368,7 @@
             </div>
             <div class="glide__slide">
               <div class="card py-1 mx-auto">
-                <span class="position-absolute bg-success p-3 font-weight-bolder text-white mx-3 my-2">Eleactric Cars</span>
+                <span class="position-absolute bg-success p-2 font-weight-bolder text-white mx-3 my-2">Eleactric Cars</span>
                 <div class="card-image">
                   <img class="card-img-top" src="">
                 </div>
@@ -364,7 +384,7 @@
             </div>
             <div class="glide__slide">
               <div class="card py-1 mx-auto">
-                <span class="position-absolute bg-success p-3 font-weight-bolder text-white mx-3 my-2">Eleactric Cars</span>
+                <span class="position-absolute bg-success p-2 font-weight-bolder text-white mx-3 my-2">Eleactric Cars</span>
                 <div class="card-image">
                   <img class="card-img-top" src="">
                 </div>
@@ -389,19 +409,19 @@
 
   <section id="contact">
     <div class="container-fluid d-flex text-center flex-wrap justify-content-center mt-5">
-      <div class="bg-success py-2 px-2 mr-1 d-flex align-items-baseline shadow rounded">
+      <div class="bg-success py-1 px-2 mr-1 d-flex align-items-baseline shadow rounded">
         <i class="fas fa-map-marker-alt mr-2 bg-white p-3 rounded-circle"></i>
         <span class=" text-white font-weight-bolder">201-18 Fuel street, </span>
       </div>
-      <div class="bg-success py-2 px-2 mr-1 d-flex align-items-baseline shadow rounded">
+      <div class="bg-success py-1 px-2 mr-1 d-flex align-items-baseline shadow rounded">
         <i class="fas fa-map-marker-alt mr-2 bg-white p-3 rounded-circle"></i>
         <span class=" text-white font-weight-bolder">201-18 Fuel street, </span>
       </div>
-      <div class="bg-success py-2 px-2 mr-1 d-flex align-items-baseline shadow rounded">
+      <div class="bg-success py-1 px-2 mr-1 d-flex align-items-baseline shadow rounded">
         <i class="fas fa-map-marker-alt mr-2 bg-white p-3 rounded-circle"></i>
         <span class=" text-white font-weight-bolder">201-18 Fuel street,</span>
       </div>
-      <div class="bg-success py-2 px-2 mr-1 d-flex align-items-baseline shadow rounded">
+      <div class="bg-success py-1 px-2 mr-1 d-flex align-items-baseline shadow rounded">
         <i class="fas fa-map-marker-alt mr-2 bg-white p-3 rounded-circle"></i>
         <span class=" text-white font-weight-bolder">201-18 Fuel street, </span>
       </div>
@@ -409,8 +429,8 @@
   </section>
   <footer id="contact">
     <section>
-      <div class="container-fluid bg-dark py-5">
-        <h1 class="font-weight-bolder text-white text-center my-5">Brand</h1>
+      <div class="container-fluid bg-dark py-1">
+        <h1 class="font-weight-bolder text-white text-center my-2">Brand</h1>
         <p class="text-center text-light">Integer maximus accumsan nunc, sit amet tempor lectus facilisis eu. Cras vel elit felis. Vestibulum convallis ipsum id aliquam varius.</p>
         <div class="d-flex justify-content-center my-5 social-icons">
           <i class="fab fa-facebook-f p-3 m-2 bg-white rounded-circle"></i>
@@ -421,7 +441,7 @@
         </div>
       </div>
     </section>
-    <div class="bg-dark py-2 text-center text-light">&copy; All Rights Reserved - 2020</div>
+    <div class="bg-dark py-2 text-center text-light">All Copyright &copy; Reserved - <em>BUSTRO</em></div>
 
   </footer>
 <!-- partial -->
