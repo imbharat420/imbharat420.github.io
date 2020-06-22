@@ -119,9 +119,9 @@ div.collapse ul.navbar-nav li a{
       max-width: 100%;
       vertical-align: middle;
 }
-.icons span:nth-child(n+13) img{
+.icons span:nth-child(n+12) img{
   max-width: 60%;
-  opacity:0.8;
+  opacity:0.9;
 }
 .icons span img:nth-child(2){
   opacity:0;
