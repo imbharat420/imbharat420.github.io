@@ -16,7 +16,7 @@ body{
 
 
 .carousel,.carousel-inner,.carousel-inner img{
-  height:92vh;
+  height:90vh;
   object-fit:cover;
 }
 
@@ -166,7 +166,6 @@ div.collapse ul.navbar-nav li a{
 .nav-link:hover{
   color:#2E7D32 !important;
   transition:0.5s ease;
-    display:inline-block;
   text-shadow:0px 0px 0.5px #2E7D32 !important;
 }
 @media (min-width:992px){
@@ -184,12 +183,12 @@ display:inline-block;
 position:absolute;
 bottom:3px;
 background:#2E7D32 !important;
-width:0%;
-  transition: all 0.5s ease;
+width:0% !important;
+transition: all 0.5s ease;
 height:2px;
 }
 .nav-link:hover::before {
-width:90%;
+width:85%;
 }
 
 }
@@ -220,7 +219,7 @@ width:90%;
   font-weight:bolder;
   font-size:3.3rem;
   font-family: 'helvetica', sans-serif;
-  display: inline-block;
+  display:block;
   line-height: 0.9;
   padding: 20px;
   text-transform: uppercase;
