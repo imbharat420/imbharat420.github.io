@@ -150,7 +150,6 @@ div.collapse ul.navbar-nav li a{
 }
 /* Mobile animation */
 #mobile-animation{
-  width:60%;
   animation:mobile 2.7s infinite ease-in-out;
 }
 @keyframes mobile{
