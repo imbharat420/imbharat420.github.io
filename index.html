@@ -1,0 +1,1037 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio | Bharat Singh </title>
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Switzer", sans-serif;
+      }
+
+      #logo h1 {
+        font-size: 3rem;
+        font-weight: 800;
+        color: #fff;
+        transform: rotateZ(348deg) skew(-5deg);
+      }
+      @media (max-width: 900px) {
+        #logo h1 {
+          font-size: 2rem;
+        }
+      }
+
+      .small-text {
+        position: relative;
+        top: 50px;
+        display: inline-block;
+        margin-left: 10px;
+        color: silver;
+        font-size: 26px;
+        font-weight: 400;
+      }
+
+      nav {
+        z-index: 999;
+        position: fixed;
+        width: 100%;
+      }
+      nav .nav-wrapper {
+        padding: 10px 0px;
+        width: 100%;
+        top: 0px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 0 auto;
+      }
+      @media (max-width: 1020px) {
+        nav .nav-wrapper {
+          width: 90% !important;
+        }
+      }
+      nav .nav-wrapper .navbar-nav {
+        display: flex;
+      }
+      nav .nav-wrapper .navbar-nav .nav-item {
+        padding: 10px;
+        list-style: none;
+      }
+      nav .nav-wrapper .navbar-nav .nav-item .nav-link {
+        font-size: 1.4rem;
+        text-decoration: none;
+        color: #fff;
+        padding-bottom: 2px;
+        border-bottom: 1px solid #fff;
+      }
+      .nav-icon{
+        transform: scale(1.3);
+      }
+      @media (max-width: 900) {
+        nav .nav-wrapper .navbar-nav .nav-item .nav-link {
+          font-size: 1rem;
+        }
+      }
+
+      @media (max-width: 1020px) {
+        ul.social-icons {
+          display: none !important;
+        }
+      }
+
+      @media (max-width: 1020px) {
+        .social-icons li {
+          display: none;
+        }
+      }
+      .social-icons li a {
+        position: relative;
+        border: unset !important;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 999;
+      }
+      .social-icons li a:after {
+        position: absolute;
+        content: "";
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: -1;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 50%;
+        transform-origin: center;
+        width: 0px;
+        height: 0px;
+        background: rgba(225, 225, 225, 0.4);
+        transition: all 0.2s;
+        will-change: width, height;
+      }
+      .social-icons li a:hover:after {
+        transition: all 0.5s;
+        will-change: width, height;
+        width: 100%;
+        height: 100%;
+      }
+      .social-icons li a img {
+        max-width: 30px;
+        filter: invert(100%);
+      }
+
+      .btn {
+        border: unset;
+        padding: 20px 40px;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+        border-radius: 100px;
+        background-color: #fff;
+        transition: all 300ms ease;
+        color: #222;
+        font-size: 16px;
+        line-height: 1.2;
+        font-weight: 500;
+        text-decoration: none;
+      }
+      .btn:hover {
+        background-color: #222;
+        color: #fff;
+      }
+
+      .page-content {
+        margin-bottom: 100vh;
+        font-family: Switzer, sans-serif;
+        color: #000;
+        font-size: 14px;
+        font-weight: 700;
+      }
+      @media (max-width: 900px) {
+        .page-content {
+          margin-bottom: unset;
+        }
+      }
+
+      main {
+        position: relative;
+        z-index: 2;
+        background-color: #fff;
+        color: #000;
+      }
+
+      .container {
+        max-width: 1400px;
+        margin: 0px auto;
+        width: 98%;
+      }
+      @media (max-width: 1020px) {
+        .container {
+          width: 95%;
+        }
+      }
+
+      .sticky-element {
+        position: sticky;
+        top: 0px;
+        padding-top: 175px;
+        padding-bottom: 175px;
+      }
+
+      .hero-section {
+        height: 400vh;
+        background: linear-gradient(180deg, #4568dc, #7d69c7);
+      }
+      @media (max-width: 1020px) {
+        .hero-section {
+          height: 100%;
+        }
+      }
+
+      .hero {
+        display: grid;
+        align-items: start;
+        grid-auto-columns: 1fr;
+        grid-column-gap: 100px;
+        grid-row-gap: 16px;
+        grid-template-columns: 1fr 1.4fr;
+        grid-template-rows: auto;
+        flex: 1;
+        position: relative;
+      }
+      @media (max-width: 1020px) {
+        .hero {
+          display: block;
+        }
+      }
+      .hero--left {
+        max-width: 500px;
+      }
+      @media (max-width: 1020px) {
+        .hero--left {
+          max-width: 400px;
+        }
+      }
+      .hero--left img {
+        max-width: 100%;
+      }
+      .hero--left .subhead {
+        padding-left: 80px;
+        color: rgba(255, 255, 255, 0.8);
+        font-size: 20px;
+      }
+      .hero--right {
+        padding: 16px;
+        margin-left: 10px;
+      }
+      .hero--right p {
+        position: relative;
+        will-change: opacity;
+        font-size: 45px;
+        color: #fff;
+        font-weight: bold;
+      }
+      @media (max-width: 1020px) {
+        .hero--right p {
+          font-size: 30px;
+        }
+      }
+
+
+      .img-flower {
+        position: absolute;
+        left: 100px;
+        top: auto;
+        right: auto;
+        bottom: 200px;
+        z-index: 2;
+        width: 40px;
+      }
+      @media (max-width: 1020px) {
+        .img-flower {
+          left: auto;
+          right: 100px;
+        }
+      }
+
+      .img-container {
+        padding: 20px;
+        position: relative;
+      }
+      .img-container .main-img {
+        z-index: 2;
+        position: relative;
+      }
+      .img-container .bg-pattern {
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        width: 200px;
+        z-index: 1;
+      }
+      .img-container .arrow-img {
+        position: absolute;
+        top: -5px;
+        width: 85px;
+        right: 0px;
+        transform: rotate(27deg);
+      }
+
+      .add-line {
+        display: inline-block;
+        padding-bottom: 12px;
+        background-image: url("https://assets.website-files.com/631f44b88473ec73e729abd5/6321ebd1211a58454d8fca7c_line-2-starup-template.svg");
+        background-position: 50% 100%;
+        background-size: auto;
+        background-repeat: no-repeat;
+      }
+
+      .content-container {
+        padding: 170px 0px;
+        overflow: hidden;
+      }
+      .content-container .content {
+        display: flex;
+        align-items: center;
+        will-change: transform;
+      }
+      .content-container .content h3 {
+        color: #000;
+        font-size: 140px;
+        font-weight: bolder;
+        white-space: nowrap;
+        margin: 0.4rem 0rem;
+      }
+      @media (max-width: 1020px) {
+        .content-container .content h3 {
+          font-size: 80px;
+        }
+      }
+      @media (max-width: 900) {
+        .content-container .content h3 {
+          font-size: 30px;
+        }
+      }
+      .content-container .content .small-divider {
+        width: 76px;
+        height: 6px;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        background-color: #000;
+        transform: skew(0deg, -40deg);
+        margin: 56px;
+      }
+      @media (max-width: 1020px) {
+        .content-container .content .small-divider {
+          width: 45px;
+          height: 6px;
+        }
+      }
+      @media (max-width: 900) {
+        .content-container .content .small-divider {
+          width: 25px;
+          height: 4px;
+        }
+      }
+
+      .mt-1 {
+        margin-top: 100px;
+      }
+
+      .mt-3 {
+        margin-top: 300px;
+      }
+
+      .mt-3-2 {
+        margin-top: 150px;
+      }
+
+      .work .title {
+        display: flex;
+      }
+      .work .title h2 {
+        font-size: 140px;
+        font-weight: 400;
+        display: inline-block;
+        margin: 0rem;
+      }
+      @media (max-width: 1020px) {
+        .work .title h2 {
+          font-size: 80px !important;
+        }
+      }
+      .work .blogs-container {
+        padding: 50px;
+      }
+      .work .blogs-container h3 {
+        font-weight: 700;
+        font-size: 2rem;
+      }
+      .work .blogs-container .blog--list {
+        list-style: none;
+        margin: 0px;
+        padding: 0px;
+      }
+      .work .blogs-container .blog--list li {
+        margin: 8px 0px;
+        line-height: 2;
+        font-size: 1.4rem;
+        border-bottom: 1px dotted;
+        height: 38px;
+        display: inline-block;
+      }
+      .work .projects-container .card {
+        position: relative;
+      }
+      .work .projects-container .card--link {
+        color: #000;
+      }
+      .work .projects-container .card .gradient-overlay {
+        display: flex;
+        padding: 150px 86px;
+        justify-content: center;
+        align-items: center;
+        border-radius: 20px;
+      }
+      .work .projects-container .card img {
+        width: 100%;
+      }
+      .work .projects-container .project-title-wrapper {
+        position: absolute;
+        bottom: 40px;
+        left: 40px;
+        display: flex;
+        justify-content: center;
+        grid-column-gap: 15px;
+      }
+      .work .projects-container .project-title-wrapper .project-title {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 17px 28px;
+        border-radius: 20px;
+        background-color: #fff;
+        font-size: 30px;
+        color: #000;
+      }
+      .work .projects-container .project-title-wrapper .icon-circle {
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        background: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.8rem;
+        color: #000;
+      }
+      .work .projects-container .card-1 .gradient-overlay {
+        background: radial-gradient(
+          circle farthest-corner at 100% 0%,
+          #2193b0,
+          #6dd5ed
+        );
+      }
+      .work .projects-container .card-2 {
+        transform: translateY(100px);
+      }
+      .work .projects-container .card-2 .gradient-overlay {
+        background: radial-gradient(
+          circle farthest-corner at 100% 0%,
+          #91d341,
+          #9d3386
+        );
+      }
+      .work .projects-container .card-3 {
+        width: 75%;
+      }
+      @media (max-width: 1020px) {
+        .work .projects-container .card-3 {
+          width: 100%;
+        }
+      }
+      .work .projects-container .card-3 .gradient-overlay {
+        background: radial-gradient(
+          circle farthest-corner at 100% 0%,
+          #2c3e50,
+          #bdc3c7
+        );
+      }
+      .work .projects-container .card-4 .gradient-overlay {
+        background: radial-gradient(
+          circle farthest-corner at 100% 0%,
+          #ffefe4,
+          #dab69e
+        );
+      }
+      .work .projects-container .card-5 {
+        transform: translateY(150px);
+      }
+      .work .projects-container .card-5 .gradient-overlay {
+        background: radial-gradient(
+          circle farthest-corner at 100% 0%,
+          #ff416c,
+          #ff4b2b
+        );
+      }
+
+      .grid {
+        display: grid;
+        align-items: end;
+        grid-column-gap: 100px;
+      }
+      @media (max-width: 1020px) {
+        .grid {
+          grid-template-columns: 1fr !important;
+        }
+      }
+      .grid._1 {
+        grid-template-columns: 1.5fr 1fr;
+      }
+      .grid._2 {
+        grid-template-columns: 1.1fr 1.2fr;
+      }
+
+      footer {
+        position: fixed;
+        left: 0%;
+        top: 0%;
+        right: 0%;
+        bottom: 0%;
+        display: flex;
+        height: 100vh;
+        padding: 80px 5% 30px;
+        align-items: center;
+        background-color: #000;
+        z-index: -1;
+      }
+      @media (max-width: 900px) {
+        footer {
+          position: relative;
+          height: 100%;
+          padding-top: 235px;
+          padding-bottom: 150px;
+        }
+      }
+      footer .footer-subtitle {
+        position: absolute;
+        left: auto;
+        top: 20%;
+        right: 70px;
+        bottom: auto;
+        max-width: 21%;
+        color: rgba(255, 255, 255, 0.8);
+        font-size: 20px;
+      }
+      @media (max-width: 900px) {
+        footer .footer-subtitle {
+          font-size: 19px;
+          max-width: 55%;
+          top: 10%;
+          left: 30px;
+        }
+      }
+      footer .footer-content {
+        max-width: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        font-size: 19px;
+        font-weight: 400;
+      }
+      @media (max-width: 1020px) {
+        footer .footer-content {
+          max-width: 100% !important;
+        }
+      }
+      footer .footer-content h1 {
+        font-size: 100px;
+        color: #fff;
+        text-align: center;
+      }
+      @media (max-width: 1020px) {
+        footer .footer-content h1 {
+          font-size: 80px !important;
+        }
+      }
+      @media (max-width: 900px) {
+        footer .footer-content h1 {
+          font-size: 50px !important;
+        }
+      }
+      footer .footer-content .btn {
+        color: #fff;
+        font-size: 20px !important;
+        background: linear-gradient(61deg, #4568dc, #7d69c7);
+      }
+
+      .linux-icon{
+       border-bottom: unset !important;
+      }
+
+      .linux-icon svg{
+        width: 50px !important;
+        height: 50px  !important;
+        border: unset;
+      }
+    </style>
+    
+  </head>
+  <body>
+    <div class="page-content">
+      <nav class="">
+        <div class="container nav-wrapper">
+          <ul class="navbar-nav social-icons">
+            <li class="nav-item">
+              <a target="_blank" href="http://github.com/imbharat420" class="nav-link">
+                <i class="fa-brands fa-github nav-icon"></i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a  target="_blank" class="nav-link" href="http://codepen.io/imbharat420">
+                <i class="fa-brands fa-codepen nav-icon"></i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a target="_blank" class="nav-link" href="http://linkedin.com/in/imbharat420">
+                <i class="fa-brands fa-linkedin-in nav-icon"></i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a target="_blank" class="nav-link" href="http://g.dev/imbharat420">
+                <i class="fa-brands fa-google nav-icon"></i>
+              </a>
+            </li>
+          </ul>
+          <div id="logo">
+            <h1>Bharat</h1>
+          </div>
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#work">Work</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contact">Contact</a>
+            </li>
+             <li class="nav-item">
+              <a class="nav-link linux-icon" href="/portfolio/"><i class="fa-brands fa-linux"></i></a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <main class="page-color" id="#main">
+        <section class="hero-section" id="about">
+          <div class="sticky-element">
+            <img
+              src="https://assets.website-files.com/631f44b88473ec73e729abd5/6321ef8d31a61d3591cecd3b_shape-1.svg"
+              class="img-abs img-flower"
+            />
+            <div class="container hero">
+              <div class="hero--left">
+                <div class="img-container">
+                  <img
+                    src="profile-pic.png"
+                    class="main-img"
+                  />
+                  <img
+                    src="https://assets.website-files.com/631f44b88473ec73e729abd5/63209c708abf6771a5917cd3_graph-2.png"
+                    class="img-abs bg-pattern"
+                  />
+                  <img
+                    src="https://assets.website-files.com/631f44b88473ec73e729abd5/6321ef93211a5851bb8fdb82_shape-2.svg"
+                    class="img-abs arrow-img"
+                  />
+                </div>
+                <div class="subhead">Based in Rajasthan, India.</div>
+              </div>
+              <div class="hero--right pin-up">
+                <p class="text text-1">
+                  Hey! I'am <span class="add-line">Bharat Singh</span>
+                </p>
+                <p class="text text-2">
+                  I'am web developer and designer specialized in UX/UI,
+                  currently living in Rajasthan, IN.
+                </p>
+                <p class="text text-3">
+                  I work from the user experience to the visual details and then
+                  transform these in working code.
+                </p>
+                <p class="text text-4">
+                  Minimal designer and I really like the simple and elegant
+                  style.
+                </p>
+                <a class="btn" href="resume.html">Download Resume</a>
+              </div>
+            </div>
+          </div>
+        </section>
+        <div class="content-container">
+          <div class="content content-1">
+            <h3 class="profession">Figma</h3>
+            <span class="small-divider"></span>
+            <h3 class="profession">Canva</h3>
+          </div>
+          <div class="content content-2">
+            <h3 class="profession">Visual Studio</h3>
+            <span class="small-divider"></span>
+            <h3 class="profession">React</h3>
+            <span class="small-divider"></span>
+            <h3 class="profession">Node</h3>
+          </div>
+        </div>
+
+        <section class="work" id="work">
+          <div class="container">
+            <div class="title">
+              <h2 class="">Featured Work</h2>
+              <span class="small-text">/ 05</span>
+            </div>
+            <div class="projects-container">
+              <div class="mt-1 grid _1">
+                <div class="project card card-1">
+                  <a href="http://vibeclip.com/" class="card-link">
+                    <div class="gradient-overlay">
+                      <img
+                        src="https://i.ibb.co/WgrdZNd/image.png"
+                      />
+                    </div>
+                    <div class="project-title-wrapper">
+                      <h2 class="project-title">Vibeclip</h2>
+                      <div class="icon-circle"><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
+                    </div>
+                  </a>
+                </div>
+                <div class="project card card-2">
+                  <a href="https://nami.se/bygg-din-hiss/" class="card-link">
+                    <div class="gradient-overlay">
+                      <img
+                        src="https://i.ibb.co/LzBqGg6/image.png"
+                      />
+                    </div>
+                    <div class="project-title-wrapper">
+                      <h2 class="project-title">Konfigurator</h2> 
+                      <div class="icon-circle"><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="mt-3">
+                <div class="project card card-3">
+                  <a href="https://eichholtz.dev.haxxa.se/v3" class="card-link">
+                    <div class="gradient-overlay">
+                      <img
+                        src="https://i.ibb.co/vhk7CWS/image.png"
+                      />
+                    </div>
+                    <div class="project-title-wrapper">
+                      <h2 class="project-title">Eichholtz</h2>
+                      <div class="icon-circle"><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="mt-3-2 grid _2">
+                <div class="project card card-4">
+                  <a href="https://teachacademy.se/" class="card-link">
+                    <div class="gradient-overlay">
+                      <img
+                        src="https://i.ibb.co/nrGH1VL/image.png"
+                      />
+                    </div>
+                    <div class="project-title-wrapper">
+                      <h2 class="project-title">Teachacademy</h2>
+                      <div class="icon-circle"><i class="fa-solid fa-arrow-up-right-from-square"></i></div>
+                    </div>
+                  </a>
+                </div>
+                <div class="project card card-5">
+                  <a href="#project-1" class="card-link">
+                    <div class="gradient-overlay">
+                      <img
+                      style="filter: blur(20px)"
+                        src="https://assets.website-files.com/631f44b88473ec917f29abda/632307369751c3186d8b4cb6_project-1.jpg"
+                      />
+                    </div>
+                    <div class="project-title-wrapper">
+                      <h2 class="project-title">Coming Soon</h2>
+                      <div class="icon-circle"><i class="fa-solid fa-face-dotted"></i></div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="mt-3 blogs-container grid _1">
+            <!-- <div></div>
+            <div>
+              <h3>My blog</h3>
+              <ul class="blog--list">
+                <li>Eye-catching agency website templates</li>
+                <li>Emerging trends that will shape the future</li>
+                <li>How to make a portfolio stands out</li>
+              </ul>
+            </div> -->
+          </div>
+        </section>
+      </main>
+      <footer class="footer">
+        <p class="footer-subtitle">
+          I’m basically everywhere. So feel free to pick which mode of
+          communication works for you.
+        </p>
+        <div class="container footer-content">
+          <h1>
+            Let's talk about the next <span class="add-line">big thing</span>.
+          </h1>
+          <a class="btn" href="mailto:imbharat420@gmail.com">Write a Message</a>
+        </div>
+      </footer>
+      <div class="" id="contact"></div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/js/all.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script src="https://unpkg.co/gsap@3/dist/gsap.min.js"></script>
+    <script src="https://unpkg.com/gsap@3/dist/ScrollToPlugin.min.js"></script>
+    <script src="https://unpkg.com/gsap@3/dist/ScrollTrigger.min.js"></script>
+    <script>
+      let mql = window.matchMedia("(max-width: 1020px)");
+
+      console.log(mql);
+      if (!mql.matches) {
+        gsap.set(".text", { autoAlpha: 0.15 });
+
+        var headlines = gsap.utils.toArray(".text");
+
+        var totalDuration = 1000;
+        var singleDuration = totalDuration / headlines.length;
+
+        const lineTimeline = gsap.timeline();
+
+        // ScrollTrigger.create({
+        //   trigger: ".hero-section",
+        //   start: "top top",
+        //   end: "+=" + totalDuration,
+        //   //markers: true,
+        //   pin: true,
+        //   scrub: true,
+        //   animation: lineTimeline,
+        // });
+
+        headlines.forEach((elem, i) => {
+          const smallTimeline = gsap.timeline();
+
+          const content = document.querySelector(".hero--right");
+          const relevantContent = content.querySelector("p.text-" + i);
+
+          ScrollTrigger.create({
+            trigger: ".hero--right",
+
+            start: "top -=" + singleDuration * i,
+            end: "+=" + singleDuration,
+            //markers: true,
+
+            animation: smallTimeline,
+            toggleActions: "play none reverse none",
+          });
+
+          smallTimeline
+            //.to(elem,{ duration: 0.25, fontSize: "40px", color: "orange"}, 0)
+            .to(elem, { duration: 0.25 }, 0)
+            .to(elem, { duration: 0.25, autoAlpha: 0.6 }, 0)
+            .to(elem, { duration: 0.25, autoAlpha: 1 }, 0);
+        });
+      }
+
+      //Logo
+      $(".content-container").each(function (index) {
+        let triggerElement = $(this);
+        let targetElement = $(".content-1");
+        let tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: triggerElement,
+            // trigger element - viewport
+            start: "-90% top",
+            end: "100% top",
+            // markers:true,
+            scrub: 1,
+          },
+        });
+        tl.fromTo(
+          targetElement,
+          {
+            x: "20%",
+            duration: 10,
+          },
+          {
+            x: "-40%",
+            duration: 10,
+          }
+        );
+      });
+
+      //Logo
+      $(".content-container").each(function (index) {
+        let triggerElement = $(this);
+        let targetElement = $(".content-2");
+        let tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: triggerElement,
+            // trigger element - viewport
+            start: "-90% top",
+            end: "100% top",
+            scrub: 1,
+          },
+        });
+        tl.fromTo(
+          targetElement,
+          {
+            x: "-90%",
+            duration: 10,
+          },
+          {
+            x: "20%",
+            duration: 10,
+          }
+        );
+      });
+
+      //Logo
+      $("main").each(function (index) {
+        let triggerElement = $("body");
+        let targetElement = $("nav");
+        let tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: triggerElement,
+            // trigger element - viewport
+            start: "20% top",
+            end: "-20% top",
+            // markers:true,
+            scrub: 1,
+          },
+        });
+
+        tl.to(targetElement, 0.5, {
+          filter: "invert(100%)",
+          duration: 1,
+        });
+      });
+
+      //Logo Back color
+      $("main").each(function (index) {
+        let triggerElement = $("body");
+        let targetElement = $("nav");
+        let tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: triggerElement,
+            // trigger element - viewport
+            start: "100% top",
+            end: "-20% top",
+            // markers:true,
+            scrub: 1,
+          },
+        });
+        tl.to(targetElement, {
+          filter: "invert(0%)",
+          duration: 1,
+        });
+      });
+
+      // card scroll animation
+      $(".card").each(function (index) {
+        let triggerElement = $(this);
+        let targetElement = $(this);
+
+        let tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: triggerElement,
+            // trigger element - viewport
+            start: "-600px top",
+            end: "500px bottom",
+            // markers: true,
+            scrub: 0.8,
+            once: true,
+          },
+        });
+        tl.fromTo(
+          targetElement,
+          {
+            scale: 0,
+            autoAlpha: 0,
+            duration: 1,
+          },
+          {
+            scale: 1,
+            autoAlpha: 1,
+            duration: 1,
+          }
+        );
+      });
+
+      //Logo
+
+      let cardColors = [
+        "rgba(182,254,230)",
+        "rgba(250,219,255)",
+        "rgba(211,218,223)",
+        "rgba(255,235,222)",
+        "rgba(255,204,204)",
+      ];
+
+      $(".card").each(function (index) {
+        let triggerElement = $(this);
+        let targetElement = $("main.page-color");
+        let tl = gsap.timeline();
+
+        $(triggerElement).on("mouseenter", function () {
+          // let bgColor = $(triggerElement).find(".gradient-overlay").css("background")
+          let img = $(triggerElement).find("img");
+
+          tl.to(img, {
+            scale: 0.8,
+            ease: "elastic",
+            duration: 0.5,
+          });
+
+          tl.to(targetElement, 0.5, {
+            backgroundColor: cardColors[index],
+            ease: Power2.easeInOut,
+          });
+        });
+
+        $(triggerElement).on("mouseleave", function () {
+          let img = $(triggerElement).find("img");
+          tl.to(img, {
+            scale: 1,
+            ease: "elastic",
+            duration: 0.5,
+          });
+
+          tl.to(targetElement, 0.5, {
+            backgroundColor: "rgba(255,255,255)",
+            ease: Power2.easeInOut,
+          });
+        });
+      });
+    </script>
+  </body>
+</html>

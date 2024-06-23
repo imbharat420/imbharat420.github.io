@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta property="og:type" content="website" />
+    <meta charset="utf-8">
+    <meta property="og:image:alt" content="Terminal">
+    <meta property="twitter:image:src" content="img/terminal.png" />
+    <meta property="twitter:title" content="Techh Jork" />
+    <meta property="og:title" content="Techh Jork Terminal">
+    <meta property="og:url" content="https://jork.tech/">
+    
+    <meta property="og:site_name" content="Techh Jork Terminal">
+  
+    <meta property="og:description"
+      content="Welcome to my web-based interactive terminal their are list of available commands type `help`.">
+    <meta property="og:image" content="img/terminal.png">
+    <meta name="theme-color" content="#ffffff">
+      <meta name="keywords"
+      content="Techh Jork,terminal, web terminal">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+      content="Welcome to my web-based interactive terminal  their are list of available commands type `help`.">
+    <meta name="author" content="Techh Jork">
+     
+    <meta name="twitter:site" content="@techhjork" />
+    <meta name="twitter:creator" content="@techhjork" />
+    <meta name="twitter:domain" content="jork.tech" />
+    <meta name="twitter:card" content="summary">
+    <link rel="icon" type="image/x-icon" href="img/favicon-ios.png">
+    <meta property="og:type" content="website">
+
+    <title>Techh Jork | Terminal</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="js/animation.js"></script>
+    <script src="js/caret.js"></script>
+    <script src="js/commands.js" ></script>
+
+    <!-- 100% privacy friendly analytics -->
+    <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+  </head>
+  <body>
+  <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
+   <div class="menu-bar">
+      <div class="left">
+        <img src="img/favicon-ios.png" class="brand-logo" alt="brand-logo">
+        <h1 class="menus profile-name">Techh Jork</h1>
+      </div>
+      <div class="right">
+
+        <div class="menu-ico">
+          <!-- <img src="https://freepngimg.com/download/united_states/76187-sound-information-united-business-states-address-email.png" alt="" class="vol"> -->
+        </div>
+        <div class="menu-ico">
+          <!-- <i class="fab fa-bluetooth-b"></i> -->
+        </div>
+        <div class="menu-ico">
+          <!-- <i class="fas fa-battery-half"></i> -->
+        </div>
+        <div class="menu-ico">
+          <!-- <i class="fas fa-wifi"></i> -->
+        </div>
+        <div class="menu-ico">
+          <!-- <i class="fas fa-search"></i> -->
+        </div>
+        <div class="menu-ico">
+          <!-- <img src="https://eshop.macsales.com/blog/wp-content/uploads/2021/03/control-center-icon.png" alt="" class="control-center"> -->
+        </div>
+        <div class="menu-ico">
+          <!-- <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/AppleSiriIcon2017.png" alt="" class="siri"> -->
+        </div>
+
+        <div class="menu-time time">
+          Mon 31 May 05:30
+        </div>
+
+      </div>
+    </div>
+
+   <section class="main-section">
+     <div class=fakeMenu>
+      <div class="fakeButtons fakeClose"></div>
+      <div class="fakeButtons fakeMinimize"></div>
+      <div class="fakeButtons fakeZoom"></div>
+    </div>
+    <div class="terminal-wrapper">
+    <div id="terminal">
+      <a id="before"></a>
+    </div>
+    <div id="command" onclick="$('texter').focus();">
+      <textarea
+        type="text"
+        id="texter"
+        onkeyup="typeIt(this, event)"
+        onkeydown="typeIt(this, event); 
+                   moveIt(this.value.length, event)"
+        onkeypress="typeIt(this, event);"
+        autofocus
+      ></textarea>
+      <div id="liner">
+        <span id="typer"></span><b class="cursor" id="cursor">█</b>
+      </div>
+    </div>
+  </div>
+  </section>
+  <div class="dock">
+  <div class="dock-container">
+    <li class="li-1">
+      <div class="name">Facebook</div>
+      <a class="anchor-none" href="https://www.facebook.com/techhjork">
+       <img class="ico" src="img/icon/facebook.svg" alt="">
+      </a>
+    </li>
+    <li class="li-2">
+      <div class="name">Instagram</div>
+      <a class="anchor-none" href="https://www.instagram.com/techhjork">
+       <img class="ico" src="img/icon/instagram.svg" alt="">
+      </a>
+    </li>
+    <li class="li-3" >
+      <div class="name">Github</div>
+      <a class="anchor-none" href="https://www.github.com/techhjork">
+      <img class="ico" src="img/icon/github.svg" alt="">
+      </a>
+    </li>
+    <li class="li-5">
+      <div class="name">Twitter</div>
+      <a class="anchor-none" href="https://www.twitter.com/techhjork">
+        <img class="ico" src="img/icon/twitter.svg" alt="">
+      </a>
+    </li>
+    <li class="li-5">
+      <div class="name">Codepen</div>
+      <a class="anchor-none" href="https://www.facebook.com/techhjork">
+        <img class="ico" src="img/icon/codepen.svg" alt="">
+      </a>
+    </li>
+    <li class="li-4">
+      <div class="name">Youtube</div>
+      <a class="anchor-none" href="https://www.youtube.com/channel/UCb2YuwKaamhklHWpNDflzmg">
+        <img class="ico" src="img/icon/youtube.svg" alt="">
+      </a>
+    </li>
+    <li class="li-bin">
+      <div class="name">Gmail</div>
+      <a class="anchor-none" href="mailto:techhjork@gmail.com">
+        <img class="ico ico-bin" src="img/icon/gmail.svg" alt="">
+      </a>
+    </li>
+  </div>
+</div>
+    <script src="js/main.js" async></script>
+  </body>
+</html>
