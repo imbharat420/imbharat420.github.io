@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VS Code-like File Management</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <div id="file-tabs">
+            <div id="tab-header">
+                <!-- Tabs will be dynamically added here -->
+                <div id="add-tab" class="tab">+</div>
+            </div>
+        </div>
+        <div id="file-container">
+            <!-- File areas will be dynamically added here -->
+        </div>
+    </div>
+    <div id="context-menu" class="hidden">
+        <ul>
+            <li id="split-up">Split Up</li>
+            <li id="split-down">Split Down</li>
+            <li id="split-left">Split Left</li>
+            <li id="split-right">Split Right</li>
+            <li id="file-close">Close File</li>
+        </ul>
+    </div>
+    <button id="add-file">Add File</button>
+    <script src="script.js"></script>
+</body>
+</html>

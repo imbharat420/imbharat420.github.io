@@ -1,0 +1,2291 @@
+[
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "PayMonk",
+            "companyTagline": "Digital Today | Better Tomorrow",
+            "companyFounded": 2016,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/10376/161d9f8a2b/paymonk-logo/aad08357673a84992627749b82b4f51e.webp",
+            "instahyreNote": "PayMonk is an Information Technology & Services company that offers Fintech solutions and a Digital Financial Transaction Platform to its customers globally.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/10376"
+        },
+        "job": {
+            "candidateTitle": "Full Stack Developer",
+            "title": "Full Stack Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-324812-full-stack-developer-at-paymonk-noida/",
+            "locations": "Noida",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "PHP",
+                "Node.js",
+                "React.js",
+                "Java"
+            ],
+            "employerCompanyName": "PayMonk",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/10376/161d9f8a2b/paymonk-logo/aad08357673a84992627749b82b4f51e.webp",
+            "id": 324812,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/324812"
+        },
+        "score": "6.567",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045883",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045883"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Kapiva",
+            "companyTagline": "India's first modern ayurvedic nutrition brand",
+            "companyFounded": 2016,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/34612/14e8609ab8/1582480103033/d93090447ae8b88e925446625088fe8e.webp",
+            "instahyreNote": "Kapiva is a modern Ayurvedic nutrition brand that produces and markets a range of Ayurvedic-based health-focused products and supplements through its 150+ retail outlets and online channels. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/34612"
+        },
+        "job": {
+            "candidateTitle": "MERN Developer",
+            "title": "MERN Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-324020-mern-developer-at-kapiva-bangalore/",
+            "locations": "Bangalore",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "React.js",
+                "JavaScript",
+                "MongoDB",
+                "Express.js"
+            ],
+            "employerCompanyName": "Kapiva",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/34612/14e8609ab8/1582480103033/d93090447ae8b88e925446625088fe8e.webp",
+            "id": 324020,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/324020"
+        },
+        "score": "2.833",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046286",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046286"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Esyasoft Technology",
+            "companyTagline": "Solutions for a smart and connected world",
+            "companyFounded": 2014,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/47556/d7527eca78/Screenshot_2024-06-12_162936/9bc0789a668519b8bab5e6a0bdf9143b.webp",
+            "instahyreNote": "Esyasoft is a cloud-edge platform excelling in integrated smart utility solutions, including peak load, meter data management, energy audits, and analytics-driven utility services from load forecasting to GIS. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/47556"
+        },
+        "job": {
+            "candidateTitle": "Fullstack Developer",
+            "title": "Fullstack Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-321177-fullstack-developer-at-esyasoft-technology-bangalore/",
+            "locations": "Bangalore",
+            "isInternship": false,
+            "keywords": [
+                "React.js",
+                "Node.js",
+                "SQL",
+                "Express.js"
+            ],
+            "employerCompanyName": "Esyasoft Technology",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/47556/d7527eca78/Screenshot_2024-06-12_162936/9bc0789a668519b8bab5e6a0bdf9143b.webp",
+            "id": 321177,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/321177"
+        },
+        "score": "1.668",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046292",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046292"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Flipkart",
+            "companyTagline": "India's favourite online shopping destination",
+            "companyFounded": 2007,
+            "employeeCount": 1000,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/38/9a9bd70d75/flipkart/cc924f4947ff7c9b7431154cd5507fae.webp",
+            "instahyreNote": "India's leading e-commerce company. Founded in 2007 by IIT graduates, Flipkart is currently valued at over $15 billion and has raised over $3 billion in funding. Acquired fashion site Myntra in 2014.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/38"
+        },
+        "job": {
+            "candidateTitle": "Application Engineer",
+            "title": "Application Engineer",
+            "gender": 0,
+            "opportunityUrl": "/job-305008-application-engineer-at-flipkart-bangalore/",
+            "locations": "Bangalore",
+            "isInternship": false,
+            "keywords": [
+                "Algorithms",
+                "C++",
+                "Data Structures",
+                "Golang",
+                "Java",
+                "Python",
+                "Ruby"
+            ],
+            "employerCompanyName": "Flipkart",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/38/9a9bd70d75/flipkart/cc924f4947ff7c9b7431154cd5507fae.webp",
+            "id": 305008,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/305008"
+        },
+        "score": "12.083",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046277",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046277"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Arthmate",
+            "companyTagline": "Enabling entrepreneurs",
+            "companyFounded": 2020,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/31344/422295578e/logo_web_-01_copy/16d1653adc0345c35fb84fd2738d7f6c.webp",
+            "instahyreNote": "Arthmate is a non-banking finance company that provides credit solutions to internet-enabled MSMEs. It has lending models in a partnership approach that reduces risks, has risk pools and loss support arrangements. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/31344"
+        },
+        "job": {
+            "candidateTitle": "Software Developer",
+            "title": "Software Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-275530-software-developer-at-arthmate-kolkata/",
+            "locations": "Kolkata",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "React.js"
+            ],
+            "employerCompanyName": "Arthmate",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/31344/422295578e/logo_web_-01_copy/16d1653adc0345c35fb84fd2738d7f6c.webp",
+            "id": 275530,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/275530"
+        },
+        "score": "2.534",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046287",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046287"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "HME",
+            "companyTagline": "Demonstrating industry expertise and optimizing operational efficiency",
+            "companyFounded": 1971,
+            "employeeCount": 500,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/44111/7b200df618/1519856128189/a2d3b77e4442fb8dc9a3cbf1f186e742.webp",
+            "instahyreNote": "HME is a family of five industry-leading companies dedicated to demonstrating industry expertise for clients offering services across industry verticals like communications, audio, software, and hardware. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/44111"
+        },
+        "job": {
+            "candidateTitle": "Senior Software Engineer",
+            "title": "Senior Software Engineer",
+            "gender": 0,
+            "opportunityUrl": "/job-306437-senior-software-engineer-at-hme-bangalore/",
+            "locations": "Bangalore",
+            "isInternship": false,
+            "keywords": [
+                "PHP",
+                "React.js",
+                "SQL"
+            ],
+            "employerCompanyName": "HME",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/44111/7b200df618/1519856128189/a2d3b77e4442fb8dc9a3cbf1f186e742.webp",
+            "id": 306437,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/306437"
+        },
+        "score": "1.655",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046291",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046291"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Electrifi Mobility",
+            "companyTagline": "Solution that helps commercial fleets electrify",
+            "companyFounded": 2022,
+            "employeeCount": 1,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/43816/1dd4f8beb2/1689050225776/79a3ced8797c9d37e420f5c95df0ea70.webp",
+            "instahyreNote": "Electrifi Mobility specializes in financing electric vehicle ownership through operating leases, providing an accessible and affordable way for individuals and businesses to embrace clean transportation. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/43816"
+        },
+        "job": {
+            "candidateTitle": "Backend Developer",
+            "title": "Backend Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-326841-backend-developer-at-electrifi-mobility-gurgaon/",
+            "locations": "Gurgaon",
+            "isInternship": false,
+            "keywords": [
+                "React.js",
+                "Python",
+                "Kafka",
+                "RabbitMQ",
+                "AWS"
+            ],
+            "employerCompanyName": "Electrifi Mobility",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/43816/1dd4f8beb2/1689050225776/79a3ced8797c9d37e420f5c95df0ea70.webp",
+            "id": 326841,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/326841"
+        },
+        "score": "1.891",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046282",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046282"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Conneqt Digital",
+            "companyTagline": "A trusted partner to accelerate digital transformation",
+            "companyFounded": 2013,
+            "employeeCount": 1000,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/44802/6086fb6def/conneqt_digital_logo/6ca1cc1c57cd417202926ae1ce17b786.webp",
+            "instahyreNote": "Conneqt is an IT service company that helps 150+ clients accelerate digital transformation in multiple areas like data and analytics, cybersecurity, digital engineering, enterprise applications, and other services. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/44802"
+        },
+        "job": {
+            "candidateTitle": "Fullstack Developer - React",
+            "title": "Fullstack Developer - React",
+            "gender": 0,
+            "opportunityUrl": "/job-326767-fullstack-developer-react-at-conneqt-digital-bangalore/",
+            "locations": "Bangalore",
+            "isInternship": false,
+            "keywords": [
+                "React.js",
+                "JavaScript",
+                "Redux",
+                "Java"
+            ],
+            "employerCompanyName": "Conneqt Digital",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/44802/6086fb6def/conneqt_digital_logo/6ca1cc1c57cd417202926ae1ce17b786.webp",
+            "id": 326767,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/326767"
+        },
+        "score": "2.985",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046310",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046310"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Brenolabs",
+            "companyTagline": "We help bring your technology vision to reality",
+            "companyFounded": 2020,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/19832/98e9813f9a/0_1/ac936a02d303354ec9c7286c66e86e39.webp",
+            "instahyreNote": "Brenolabs provides software development services offering Product Engineering, Data Engineering & Science, Enterprise Solution specializing in Data-Driven scalable products with agile software solutions.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/19832"
+        },
+        "job": {
+            "candidateTitle": "Mern Developer",
+            "title": "Mern Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-326743-mern-developer-at-brenolabs-work-from-home/",
+            "locations": "Work From Home",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "Node.js",
+                "React.js",
+                "C",
+                "Angular"
+            ],
+            "employerCompanyName": "Brenolabs",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/19832/98e9813f9a/0_1/ac936a02d303354ec9c7286c66e86e39.webp",
+            "id": 326743,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/326743"
+        },
+        "score": "4.207",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045897",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045897"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Nadcab Labs",
+            "companyTagline": "Delivering advanced integrated blockchain application development solutions",
+            "companyFounded": 2015,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/26058/3a6e88bded/ignore/logos/Nadcab_Technology-26058-logo/4b2f4ced9e02d015a1be8833103ab51d.webp",
+            "instahyreNote": "Nadcab Labs is an IT system integrator that leverages the latest technologies to offer a range of custom services in blockchain software development, smart contract development, NFT development, and more. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/26058"
+        },
+        "job": {
+            "candidateTitle": "Mern Stack Developer",
+            "title": "Mern Stack Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-324874-mern-stack-developer-at-nadcab-labs-allahabad/",
+            "locations": "Allahabad",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "Node.js",
+                "React.js"
+            ],
+            "employerCompanyName": "Nadcab Labs",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/26058/3a6e88bded/ignore/logos/Nadcab_Technology-26058-logo/4b2f4ced9e02d015a1be8833103ab51d.webp",
+            "id": 324874,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/324874"
+        },
+        "score": "11.282",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045890",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045890"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Infosec Ventures",
+            "companyTagline": "Accelerating innovation in cyber security",
+            "companyFounded": 2020,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/33920/bacdbc6d9a/1536218684369/eba1b8ca1d1f47e1e4d8217b93cd3fcb.webp",
+            "instahyreNote": "Infosec Ventures is an IT company that aims to protect systems and human operating systems by incubating, investing, and scaling cyber security innovators who solve for inefficiencies in cyber security. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/33920"
+        },
+        "job": {
+            "candidateTitle": ".NET Developer",
+            "title": ".NET Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-326252-net-developer-at-infosec-ventures-delhi/",
+            "locations": "Delhi",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                ".NET",
+                "ASP.NET",
+                "Windows Forms",
+                ".NET Compact Framework"
+            ],
+            "employerCompanyName": "Infosec Ventures",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/33920/bacdbc6d9a/1536218684369/eba1b8ca1d1f47e1e4d8217b93cd3fcb.webp",
+            "id": 326252,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/326252"
+        },
+        "score": "2.689",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046318",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046318"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Brenolabs",
+            "companyTagline": "We help bring your technology vision to reality",
+            "companyFounded": 2020,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/19832/98e9813f9a/0_1/ac936a02d303354ec9c7286c66e86e39.webp",
+            "instahyreNote": "Brenolabs provides software development services offering Product Engineering, Data Engineering & Science, Enterprise Solution specializing in Data-Driven scalable products with agile software solutions.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/19832"
+        },
+        "job": {
+            "candidateTitle": "Salesforce Developer",
+            "title": "Salesforce Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-326525-salesforce-developer-at-brenolabs-work-from-home/",
+            "locations": "Work From Home",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "Node.js"
+            ],
+            "employerCompanyName": "Brenolabs",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/19832/98e9813f9a/0_1/ac936a02d303354ec9c7286c66e86e39.webp",
+            "id": 326525,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/326525"
+        },
+        "score": "9.259",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045905",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045905"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Kodion Softwares",
+            "companyTagline": "Perceive the world in new ways through innovation",
+            "companyFounded": 2017,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/37892/7d4407f54f/1519282133209/cf8b10bfeafde8cb714f7bd78b868850.webp",
+            "instahyreNote": "Kodion Software is an ERP software and IT services business helping varied industry verticals by offering integrated solutions including web design, mobile apps, testing and development services, and more. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/37892"
+        },
+        "job": {
+            "candidateTitle": "Senior PHP Developer",
+            "title": "Senior PHP Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-184928-senior-php-developer-at-kodion-softwares-ludhiana/",
+            "locations": "Ludhiana",
+            "isInternship": false,
+            "keywords": [
+                "PHP",
+                "CodeIgniter",
+                "Laravel",
+                "Wordpress"
+            ],
+            "employerCompanyName": "Kodion Softwares",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/37892/7d4407f54f/1519282133209/cf8b10bfeafde8cb714f7bd78b868850.webp",
+            "id": 184928,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/184928"
+        },
+        "score": "3.519",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045913",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045913"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Datacultr",
+            "companyTagline": "The default operating system for debt collection technologies",
+            "companyFounded": 2020,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/37237/29e2fce4f8/1550749047493/5bb7e07993268fea5be0bbdec82ad7dd.webp",
+            "instahyreNote": "Datacultr is a risk mitigation and collections management platform that uses data-driven behavioral interventions to reduce the risk for banks, telco, and lending companies when they lend for unsecured loans. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/37237"
+        },
+        "job": {
+            "candidateTitle": "Android Developer - Trainee",
+            "title": "Android Developer - Trainee",
+            "gender": 0,
+            "opportunityUrl": "/job-325959-android-developer-trainee-at-datacultr-gurgaon/",
+            "locations": "Gurgaon",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "Android",
+                "Java"
+            ],
+            "employerCompanyName": "Datacultr",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/37237/29e2fce4f8/1550749047493/5bb7e07993268fea5be0bbdec82ad7dd.webp",
+            "id": 325959,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/325959"
+        },
+        "score": "14.839",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046279",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046279"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "NeoSOFT Technologies",
+            "companyTagline": "Global IT consulting & software solution",
+            "companyFounded": 1996,
+            "employeeCount": 1000,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/18694/552f7bfb2a/0/7c036841dc515f79865c2c1dddea10cf.webp",
+            "instahyreNote": "NeoSOFT is a global IT consulting & software solutions provider specializing in Software Development Services, Mobile Application Development Services, Web Hosting Services, Web Development Services, etc.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/18694"
+        },
+        "job": {
+            "candidateTitle": "Mean Stake Developer",
+            "title": "Mean Stake Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-325407-mean-stake-developer-at-neosoft-technologies-mumbai/",
+            "locations": "Mumbai",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "MongoDB",
+                "Angular",
+                "Express.js",
+                "AWS"
+            ],
+            "employerCompanyName": "NeoSOFT Technologies",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/18694/552f7bfb2a/0/7c036841dc515f79865c2c1dddea10cf.webp",
+            "id": 325407,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/325407"
+        },
+        "score": "1.808",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046320",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046320"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Sriggle",
+            "companyTagline": "Most advances and intuitive travel solutions",
+            "companyFounded": 2015,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/15118/6706455bd0/0_47/b51093e8494e610d614914dfd0657a92.webp",
+            "instahyreNote": "Sriggle is an IT & Services organization that provides services related to Travel Technology Solutions, Software Development, and Software Services.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/15118"
+        },
+        "job": {
+            "candidateTitle": "Full Stack Developer",
+            "title": "Full Stack Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-298191-full-stack-developer-at-sriggle-faridabad/",
+            "locations": "Faridabad",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "PHP",
+                "React.js",
+                ".NET",
+                "Angular",
+                "ASP.NET"
+            ],
+            "employerCompanyName": "Sriggle",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/15118/6706455bd0/0_47/b51093e8494e610d614914dfd0657a92.webp",
+            "id": 298191,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/298191"
+        },
+        "score": "6.724",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045907",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045907"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "VizUp Commerce",
+            "companyTagline": "Empowering D2C brands with interactive gamified video solutions",
+            "companyFounded": 2024,
+            "employeeCount": 1,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/47809/d7581327d7/Screenshot_2024-07-08_105130/e761bfebedd9981cbc42e0e074aca874.webp",
+            "instahyreNote": "VizUp Commerce is a software development company providing video solutions for Shopify brands, enabling 150+ D2C brands to use gamified, interactive videos to educate customers, build trust, and increase sales. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/47809"
+        },
+        "job": {
+            "candidateTitle": "Fullstack Engineer",
+            "title": "Fullstack Engineer",
+            "gender": 0,
+            "opportunityUrl": "/job-324884-fullstack-engineer-at-vizup-commerce-hyderabad-work-from-home/",
+            "locations": "Hyderabad,Work From Home",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "jQuery",
+                "Node.js",
+                "React.js",
+                "Python",
+                "Angular",
+                "Vue.js"
+            ],
+            "employerCompanyName": "VizUp Commerce",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/47809/d7581327d7/Screenshot_2024-07-08_105130/e761bfebedd9981cbc42e0e074aca874.webp",
+            "id": 324884,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/324884"
+        },
+        "score": "4.559",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045891",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045891"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "QRisTix",
+            "companyTagline": "Digitize workflows, optimize resources, maximize revenues",
+            "companyFounded": 2021,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/32352/c9547167a8/Capture/8ca36a5d2b7001810cdabf5f13b57a2f.webp",
+            "instahyreNote": "QRisTix is software made for equipment and rental businesses. It offers easy-to-use tools to run a business from anywhere, tag and track assets, equipment, register and resolve service tickets and manage customers. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/32352"
+        },
+        "job": {
+            "candidateTitle": "Software Developer",
+            "title": "Software Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-287531-software-developer-at-qristix-bangalore-work-from-home/",
+            "locations": "Bangalore,Work From Home",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "Node.js",
+                "Angular"
+            ],
+            "employerCompanyName": "QRisTix",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/32352/c9547167a8/Capture/8ca36a5d2b7001810cdabf5f13b57a2f.webp",
+            "id": 287531,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/287531"
+        },
+        "score": "8.723",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045912",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045912"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Aiolos Cloud",
+            "companyTagline": "Helping global organization transform their businesses",
+            "companyFounded": 2020,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/47520/7c26d78fee/aiolos_solutions_logo/bb1c6f01536d03cfb27642348f8ddd5b.webp",
+            "instahyreNote": "Aiolos is a VC-funded tech startup with capabilities across advanced cloud services, engineering, and CMS development, building custom, scalable, and secure solutions to power Fortune 500 and next-gen businesses. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/47520"
+        },
+        "job": {
+            "candidateTitle": "Fullstack Developer",
+            "title": "Fullstack Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-320673-fullstack-developer-at-aiolos-cloud-mumbai/",
+            "locations": "Mumbai",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "jQuery",
+                "Node.js",
+                "React.js",
+                "Vue.js"
+            ],
+            "employerCompanyName": "Aiolos Cloud",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/47520/7c26d78fee/aiolos_solutions_logo/bb1c6f01536d03cfb27642348f8ddd5b.webp",
+            "id": 320673,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/320673"
+        },
+        "score": "10.831",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045904",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045904"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Briidea Innoventures",
+            "companyTagline": "Brilliant ideas for business growth",
+            "companyFounded": 2017,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/40135/1f4b557561/313208630_484932430320502_8460549372385626187/d566d4fc6d8a6dee22db3027af3f0af4.webp",
+            "instahyreNote": "Briidea Innoventures is a fast-growing web development company that turns ideas into premium websites by offering services for web design and development, digital marketing, SEO, branding, and content writing. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/40135"
+        },
+        "job": {
+            "candidateTitle": "PHP Developer",
+            "title": "PHP Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-283213-php-developer-at-briidea-innoventures-pune/",
+            "locations": "Pune",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "PHP",
+                "React.js",
+                "CodeIgniter",
+                "Laravel"
+            ],
+            "employerCompanyName": "Briidea Innoventures",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/40135/1f4b557561/313208630_484932430320502_8460549372385626187/d566d4fc6d8a6dee22db3027af3f0af4.webp",
+            "id": 283213,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/283213"
+        },
+        "score": "13.593",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045888",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045888"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "SDP Labs / ProofHub",
+            "companyTagline": "Bringing people together to collaborate and communicate effectively",
+            "companyFounded": 2007,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/2773/dcdaf758ed/AAEAAQAAAAAAAAcNAAAAJDBhM2EzYzA2LTkxZDAtNDNjN/a2b7dc74da03b2ecafe90ab35232857f.webp",
+            "instahyreNote": "SDP Labs is a software development company that builds web based apps that bring people together to collaborate and communicate effectively. Main product is ProofHub, an online project management and collaboration tool.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/2773"
+        },
+        "job": {
+            "candidateTitle": "PHP Developer",
+            "title": "PHP Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-81090-php-developer-at-sdp-labs-proofhub-chandigarh/",
+            "locations": "Chandigarh",
+            "isInternship": false,
+            "keywords": [
+                "PHP",
+                "CodeIgniter",
+                "Laravel"
+            ],
+            "employerCompanyName": "SDP Labs / ProofHub",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/2773/dcdaf758ed/AAEAAQAAAAAAAAcNAAAAJDBhM2EzYzA2LTkxZDAtNDNjN/a2b7dc74da03b2ecafe90ab35232857f.webp",
+            "id": 81090,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/81090"
+        },
+        "score": "4.824",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045902",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045902"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "PaperPlane",
+            "companyTagline": "No Mediocrity",
+            "companyFounded": 1999,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/5204/052a71a67d/0_1/f68bf9954c4c86e5a9f90f2f613a9d01.webp",
+            "instahyreNote": "Paper Plane Solutions provides services in the fields of Web Design & Strategy, Usability Consulting, Interface Design, and Digital Marketing. Boston Analytics, BluFrog, Kotak Mahindra, Sula are some their clients.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/5204"
+        },
+        "job": {
+            "candidateTitle": "Full Stack JavaScript Developer",
+            "title": "Full Stack JavaScript Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-292025-full-stack-javascript-developer-at-paperplane-mumbai/",
+            "locations": "Mumbai",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "Node.js",
+                "React.js",
+                "Angular",
+                "Vue.js"
+            ],
+            "employerCompanyName": "PaperPlane",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/5204/052a71a67d/0_1/f68bf9954c4c86e5a9f90f2f613a9d01.webp",
+            "id": 292025,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/292025"
+        },
+        "score": "11.151",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045884",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045884"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "StreamYard",
+            "companyTagline": "The easiest way to live stream and record",
+            "companyFounded": 2018,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46773/9bb253cdfa/streamyard_logo/dae4abf884d2646d65a668da28a96a26.webp",
+            "instahyreNote": "StreamYard is a live streaming and recording platform enabling broadcasting through social networks with the creation of professional live streams, recordings, podcasts, and webinars directly from web browsers. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/46773"
+        },
+        "job": {
+            "candidateTitle": "Customer Support Representative",
+            "title": "Customer Support Representative",
+            "gender": 0,
+            "opportunityUrl": "/job-312028-customer-support-representative-at-streamyard-work-from-home/",
+            "locations": "Work From Home",
+            "isInternship": false,
+            "keywords": [
+                "Customer Service",
+                "Customer Interaction",
+                "Computer Operating"
+            ],
+            "employerCompanyName": "StreamYard",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46773/9bb253cdfa/streamyard_logo/dae4abf884d2646d65a668da28a96a26.webp",
+            "id": 312028,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/312028"
+        },
+        "score": "1.547",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046315",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046315"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "USDC Global",
+            "companyTagline": "Empowering educators to drive innovation",
+            "companyFounded": 2018,
+            "employeeCount": 200,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46852/a2f39e5dd2/usdc_global_logo/614ab9ffb158b6cc9fad248f43f7b014.webp",
+            "instahyreNote": "USDC is an ed-tech platform building an infrastructure for millions of learners to offer digital career-relevant education with future-ready skills through pedagogical methods from premier universities. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/46852"
+        },
+        "job": {
+            "candidateTitle": "Academic Counsellor",
+            "title": "Academic Counsellor",
+            "gender": 0,
+            "opportunityUrl": "/job-313064-academic-counsellor-at-usdc-global-bangalore/",
+            "locations": "Bangalore",
+            "isInternship": false,
+            "keywords": [
+                "Microsoft Office",
+                "Computer Operating"
+            ],
+            "employerCompanyName": "USDC Global",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46852/a2f39e5dd2/usdc_global_logo/614ab9ffb158b6cc9fad248f43f7b014.webp",
+            "id": 313064,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/313064"
+        },
+        "score": "2.524",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046316",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046316"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "USDC Global",
+            "companyTagline": "Empowering educators to drive innovation",
+            "companyFounded": 2018,
+            "employeeCount": 200,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46852/a2f39e5dd2/usdc_global_logo/614ab9ffb158b6cc9fad248f43f7b014.webp",
+            "instahyreNote": "USDC is an ed-tech platform building an infrastructure for millions of learners to offer digital career-relevant education with future-ready skills through pedagogical methods from premier universities. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/46852"
+        },
+        "job": {
+            "candidateTitle": "Academic Counsellor",
+            "title": "Academic Counsellor",
+            "gender": 0,
+            "opportunityUrl": "/job-313063-academic-counsellor-at-usdc-global-gurgaon/",
+            "locations": "Gurgaon",
+            "isInternship": false,
+            "keywords": [
+                "Operations Management",
+                "Microsoft Office"
+            ],
+            "employerCompanyName": "USDC Global",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46852/a2f39e5dd2/usdc_global_logo/614ab9ffb158b6cc9fad248f43f7b014.webp",
+            "id": 313063,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/313063"
+        },
+        "score": "2.524",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046314",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046314"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "ABNO Softwares International",
+            "companyTagline": "The global hub for premier software solution",
+            "companyFounded": 2004,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/28155/8c1e0e33c8/0/33c33d089af6821aaa29722f983ca3c0.webp",
+            "instahyreNote": "ABNO Softwares is product development firm offering custom software product such as ERPs and MIS for educational institutions, web design solutions, ICT consultancy, human capital MIS services and more. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/28155"
+        },
+        "job": {
+            "candidateTitle": "Fullstack Developer - PHP",
+            "title": "Fullstack Developer - PHP",
+            "gender": 0,
+            "opportunityUrl": "/job-90507-fullstack-developer-php-at-abno-softwares-international-jaipur/",
+            "locations": "Jaipur",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "PHP",
+                "Angular"
+            ],
+            "employerCompanyName": "ABNO Softwares International",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/28155/8c1e0e33c8/0/33c33d089af6821aaa29722f983ca3c0.webp",
+            "id": 90507,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/90507"
+        },
+        "score": "2.719",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046302",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046302"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Monocept",
+            "companyTagline": "Solving Complex Business Problems",
+            "companyFounded": 2012,
+            "employeeCount": 200,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/15529/3a49fa503d/0_2/56a6409d7c3aa05e0e0d6161f1c984fa.webp",
+            "instahyreNote": "Monocept is a computer software organization that provides services related to Product Development, Legacy Modernization, Architecture Review, Digital Transformation, Product Optimization, etc.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/15529"
+        },
+        "job": {
+            "candidateTitle": "Senior Software Engineer - Dot .NET",
+            "title": "Senior Software Engineer - Dot .NET",
+            "gender": 0,
+            "opportunityUrl": "/job-314768-senior-software-engineer-dot-net-at-monocept-hyderabad/",
+            "locations": "Hyderabad",
+            "isInternship": false,
+            "keywords": [
+                "React.js",
+                ".NET",
+                "C#",
+                "ASP.NET",
+                "API Testing"
+            ],
+            "employerCompanyName": "Monocept",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/15529/3a49fa503d/0_2/56a6409d7c3aa05e0e0d6161f1c984fa.webp",
+            "id": 314768,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/314768"
+        },
+        "score": "2.000",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046307",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046307"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "sGate Tech Solutions",
+            "companyTagline": "Providing the entire spectrum of web solutions",
+            "companyFounded": 2004,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/42336/137ed25c08/294487201_422682056545699_4117254488507688311/b616fe0940a005fc2fdc9474fb03807e.webp",
+            "instahyreNote": "sGate is an IT company that specializes in offering web, tech, and SaaS solutions including web app development, responsive web design, SEO, digital marketing, web hosting, email solutions, and domain registration. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/42336"
+        },
+        "job": {
+            "candidateTitle": "Node.js Developer",
+            "title": "Node.js Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-314684-nodejs-developer-at-sgate-tech-solutions-mohali/",
+            "locations": "Mohali",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "Express.js"
+            ],
+            "employerCompanyName": "sGate Tech Solutions",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/42336/137ed25c08/294487201_422682056545699_4117254488507688311/b616fe0940a005fc2fdc9474fb03807e.webp",
+            "id": 314684,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/314684"
+        },
+        "score": "3.868",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045915",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045915"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Think360 Studio",
+            "companyTagline": "UI/UX Design Agency Based In India | Building Great UI/UX Designs",
+            "companyFounded": 2010,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/10366/e8a5cb26a4/0_-_2019-04-26T184958.890/ad117a3fec78a97f2dc8531dc97026c6.webp",
+            "instahyreNote": "Think360 Studio is an IT & Services company that has specialities in Mobile App development, UX/UI Designing, Website Design & Development, Brand Consultant & Digital Marketing.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/10366"
+        },
+        "job": {
+            "candidateTitle": "PHP Developer",
+            "title": "PHP Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-312605-php-developer-at-think360-studio-chandigarh/",
+            "locations": "Chandigarh",
+            "isInternship": false,
+            "keywords": [
+                "PHP",
+                "CodeIgniter"
+            ],
+            "employerCompanyName": "Think360 Studio",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/10366/e8a5cb26a4/0_-_2019-04-26T184958.890/ad117a3fec78a97f2dc8531dc97026c6.webp",
+            "id": 312605,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/312605"
+        },
+        "score": "6.694",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045893",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045893"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Zorior",
+            "companyTagline": "We create robust mobile and web solutions to help businesses thrive",
+            "companyFounded": 2022,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/37493/c1ebe3e40b/1650965796337/9c6e39ba34deb036361e7ed570b7e379.webp",
+            "instahyreNote": "Zorior is an IT solutions company that offers one-stop solutions for all design and development needs by catering to web design and development, mobile app development, and marketing services. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/37493"
+        },
+        "job": {
+            "candidateTitle": "PHP Developer",
+            "title": "PHP Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-182320-php-developer-at-zorior-ahmedabad/",
+            "locations": "Ahmedabad",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "PHP",
+                "jQuery",
+                "CodeIgniter"
+            ],
+            "employerCompanyName": "Zorior",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/37493/c1ebe3e40b/1650965796337/9c6e39ba34deb036361e7ed570b7e379.webp",
+            "id": 182320,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/182320"
+        },
+        "score": "12.002",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045919",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045919"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Think360 Studio",
+            "companyTagline": "UI/UX Design Agency Based In India | Building Great UI/UX Designs",
+            "companyFounded": 2010,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/10366/e8a5cb26a4/0_-_2019-04-26T184958.890/ad117a3fec78a97f2dc8531dc97026c6.webp",
+            "instahyreNote": "Think360 Studio is an IT & Services company that has specialities in Mobile App development, UX/UI Designing, Website Design & Development, Brand Consultant & Digital Marketing.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/10366"
+        },
+        "job": {
+            "candidateTitle": "Full Stack Developer (MERN)",
+            "title": "Full Stack Developer (MERN)",
+            "gender": 0,
+            "opportunityUrl": "/job-310588-full-stack-developer-mern-at-think360-studio-chandigarh/",
+            "locations": "Chandigarh",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "Node.js",
+                "React.js"
+            ],
+            "employerCompanyName": "Think360 Studio",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/10366/e8a5cb26a4/0_-_2019-04-26T184958.890/ad117a3fec78a97f2dc8531dc97026c6.webp",
+            "id": 310588,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/310588"
+        },
+        "score": "10.985",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045894",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045894"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "LabelBlind",
+            "companyTagline": "India's 1st digital food labelling solutions",
+            "companyFounded": 2018,
+            "employeeCount": 1,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46512/9b171fc551/the_nutrition_alchemy_logo/9b8ae81c84a22f7668c6e15186da2bd3.webp",
+            "instahyreNote": "LabelBlind is a digital food labeling platform integrating product and labeling compliance, awareness, nutrition assessment, and market readiness for MSME food manufacturers and farmer-producer organizations. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/46512"
+        },
+        "job": {
+            "candidateTitle": "Full Stack Engineer (SaaS - Food Tech)",
+            "title": "Full Stack Engineer (SaaS - Food Tech)",
+            "gender": 0,
+            "opportunityUrl": "/job-308718-full-stack-engineer-saas-food-tech-at-labelblind-mumbai/",
+            "locations": "Mumbai",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "Node.js",
+                "React.js"
+            ],
+            "employerCompanyName": "LabelBlind",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46512/9b171fc551/the_nutrition_alchemy_logo/9b8ae81c84a22f7668c6e15186da2bd3.webp",
+            "id": 308718,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/308718"
+        },
+        "score": "10.000",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045887",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045887"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Ameripro Solutions",
+            "companyTagline": "Global information technology service provider",
+            "companyFounded": 2011,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46281/dbcfc95683/Screenshot_from_2024-03-04_11-58-34/0520ab969aa11e4987b6767cac2991bd.webp",
+            "instahyreNote": "AmeriPro is a global IT company expertise with in managed services in verticals such as automated messaging, cloud solutions, GIS, SAP, data warehousing, consulting, product development, QA, and many more. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/46281"
+        },
+        "job": {
+            "candidateTitle": "Junior Software Engineer",
+            "title": "Junior Software Engineer",
+            "gender": 0,
+            "opportunityUrl": "/job-305619-junior-software-engineer-at-ameripro-solutions-hyderabad-work-from-home/",
+            "locations": "Hyderabad,Work From Home",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "PHP",
+                "jQuery",
+                "Angular",
+                "CodeIgniter"
+            ],
+            "employerCompanyName": "Ameripro Solutions",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46281/dbcfc95683/Screenshot_from_2024-03-04_11-58-34/0520ab969aa11e4987b6767cac2991bd.webp",
+            "id": 305619,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/305619"
+        },
+        "score": "12.353",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045895",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045895"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Webcontxt",
+            "companyTagline": "Magic happens when the power of digital media meets technology",
+            "companyFounded": 2009,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/14771/bd03bc36bf/764027_20180920173132/a112650b0d9ed06f5fe444f4f33b8fd7.webp",
+            "instahyreNote": "Webcontxt is an IT & Services organization that provides services related to Web Marketing, Interactive PR, SMM, Online Advertisements, SEO, E-newsletters, etc. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/14771"
+        },
+        "job": {
+            "candidateTitle": "Node.js Developer",
+            "title": "Node.js Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-94665-nodejs-developer-at-webcontxt-jaipur/",
+            "locations": "Jaipur",
+            "isInternship": false,
+            "keywords": [
+                "Node.js"
+            ],
+            "employerCompanyName": "Webcontxt",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/14771/bd03bc36bf/764027_20180920173132/a112650b0d9ed06f5fe444f4f33b8fd7.webp",
+            "id": 94665,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/94665"
+        },
+        "score": "2.839",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046303",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046303"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Technocrats Horizons",
+            "companyTagline": "Enterprise Web Development & Technical Solutions",
+            "companyFounded": 2010,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/2895/64f88449e9/AAEAAQAAAAAAAAdMAAAAJGQ5N2I0Zjc0LTRlNDYtNGJlZ/9f9160b233b93f68a599d89298433a4e.webp",
+            "instahyreNote": "Technocrats Horizons is an IT company offering website/portal design and technology development consulting services to both Indian as well as international clients at the most affordable rates.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/2895"
+        },
+        "job": {
+            "candidateTitle": "Node.js Developer",
+            "title": "Node.js Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-303637-nodejs-developer-at-technocrats-horizons-ludhiana/",
+            "locations": "Ludhiana",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "Express.js"
+            ],
+            "employerCompanyName": "Technocrats Horizons",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/2895/64f88449e9/AAEAAQAAAAAAAAdMAAAAJGQ5N2I0Zjc0LTRlNDYtNGJlZ/9f9160b233b93f68a599d89298433a4e.webp",
+            "id": 303637,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/303637"
+        },
+        "score": "5.641",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045901",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045901"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "kipi.bi",
+            "companyTagline": "Modernize and democratize the most valuable asset – data",
+            "companyFounded": 2021,
+            "employeeCount": 200,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/37920/e251655caf/1646773961614/58d58e81d986b43beb8f3a3e5599bdc4.webp",
+            "instahyreNote": "kipi.bi is an IT services and consulting organization that specializes in offering solutions across data engineering, BI and analytics, strategy advisory, and migration and implementation for business industries. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/37920"
+        },
+        "job": {
+            "candidateTitle": "Software Engineer",
+            "title": "Software Engineer",
+            "gender": 0,
+            "opportunityUrl": "/job-302040-software-engineer-at-kipi-work-from-home/",
+            "locations": "Work From Home",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "PHP",
+                "jQuery",
+                "Node.js",
+                "React.js",
+                "Java",
+                "Angular",
+                "Spring",
+                "Vue.js"
+            ],
+            "employerCompanyName": "kipi.bi",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/37920/e251655caf/1646773961614/58d58e81d986b43beb8f3a3e5599bdc4.webp",
+            "id": 302040,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/302040"
+        },
+        "score": "8.462",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045900",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045900"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Flocco",
+            "companyTagline": "Enabling local kiranas deliver favorite products at doorstep",
+            "companyFounded": 2021,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46060/06f54434eb/1666150249700/068224c3817f982db99e1d4da1c53d90.webp",
+            "instahyreNote": "Flocco is a SaaS e-Grocery platform supporting local retailers in transitioning online through inventory management, compliance adherence, and business administration, currently serving 5 areas in Bengaluru. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/46060"
+        },
+        "job": {
+            "candidateTitle": "Backend Developer - Node.js",
+            "title": "Backend Developer - Node.js",
+            "gender": 0,
+            "opportunityUrl": "/job-303294-backend-developer-nodejs-at-flocco-bangalore/",
+            "locations": "Bangalore",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "C++",
+                "Java",
+                "Python"
+            ],
+            "employerCompanyName": "Flocco",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46060/06f54434eb/1666150249700/068224c3817f982db99e1d4da1c53d90.webp",
+            "id": 303294,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/303294"
+        },
+        "score": "2.500",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045892",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045892"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Fathershops",
+            "companyTagline": "Redefining e-commerce excellence",
+            "companyFounded": 2019,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/45915/dc778d6e0d/1670678057403/1811e7f2dd72ce609f5d54205409d3c9.webp",
+            "instahyreNote": "Fathershops is a software development company offering an e-commerce platform to manage online stores with features such as inventory management, digital product sales, online payment processing, and more. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/45915"
+        },
+        "job": {
+            "candidateTitle": "Full - Stack Developer",
+            "title": "Full - Stack Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-301381-full-stack-developer-at-fathershops-dehradun/",
+            "locations": "Dehradun",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "PHP",
+                "Node.js",
+                "React.js",
+                ".NET",
+                "Angular"
+            ],
+            "employerCompanyName": "Fathershops",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/45915/dc778d6e0d/1670678057403/1811e7f2dd72ce609f5d54205409d3c9.webp",
+            "id": 301381,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/301381"
+        },
+        "score": "6.132",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045896",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045896"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Grootan Technologies",
+            "companyTagline": "We are groot in various technologies",
+            "companyFounded": 2017,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/6379/3ef7bfe419/Groot_Linkedin/81939518d06de0d293e1f4115b739026.webp",
+            "instahyreNote": "Grootan Technologies, based out of Chennai, is a technology & consulting company providing services in AI, Cloud, Mobile, Web, Bot, & IoT to various sectors of Government, Commercial and Social sectors.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/6379"
+        },
+        "job": {
+            "candidateTitle": "Software Developer",
+            "title": "Software Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-301098-software-developer-at-grootan-technologies-chennai/",
+            "locations": "Chennai",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "Java",
+                "Hibernate",
+                "Spring"
+            ],
+            "employerCompanyName": "Grootan Technologies",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/6379/3ef7bfe419/Groot_Linkedin/81939518d06de0d293e1f4115b739026.webp",
+            "id": 301098,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/301098"
+        },
+        "score": "2.500",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045906",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045906"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "NeoSOFT Technologies",
+            "companyTagline": "Global IT consulting & software solution",
+            "companyFounded": 1996,
+            "employeeCount": 1000,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/18694/552f7bfb2a/0/7c036841dc515f79865c2c1dddea10cf.webp",
+            "instahyreNote": "NeoSOFT is a global IT consulting & software solutions provider specializing in Software Development Services, Mobile Application Development Services, Web Hosting Services, Web Development Services, etc.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/18694"
+        },
+        "job": {
+            "candidateTitle": "Mern Stack Developer",
+            "title": "Mern Stack Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-302341-mern-stack-developer-at-neosoft-technologies-pune/",
+            "locations": "Pune",
+            "isInternship": false,
+            "keywords": [
+                "React.js",
+                "Node.js",
+                "Next.js",
+                "Express.js",
+                "MongoDB"
+            ],
+            "employerCompanyName": "NeoSOFT Technologies",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/18694/552f7bfb2a/0/7c036841dc515f79865c2c1dddea10cf.webp",
+            "id": 302341,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/302341"
+        },
+        "score": "1.522",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046322",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046322"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Invensis Technologies",
+            "companyTagline": "Your strategic partner for end-to-end business services",
+            "companyFounded": 2000,
+            "employeeCount": 1000,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/19145/c788dd9337/0_1/608b557dd2ea6633b6f09d3719bdb8c1.webp",
+            "instahyreNote": "Invensis provides end-to-end back-office solutions specializing in Call Center Services, IT Outsourcing Services, Finance & Accounting Services, Digital Marketing Services, etc.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/19145"
+        },
+        "job": {
+            "candidateTitle": "Python Developer",
+            "title": "Python Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-300103-python-developer-at-invensis-technologies-hyderabad/",
+            "locations": "Hyderabad",
+            "isInternship": false,
+            "keywords": [
+                "jQuery",
+                "Django",
+                "MySQL",
+                "MongoDB",
+                "Docker"
+            ],
+            "employerCompanyName": "Invensis Technologies",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/19145/c788dd9337/0_1/608b557dd2ea6633b6f09d3719bdb8c1.webp",
+            "id": 300103,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/300103"
+        },
+        "score": "2.467",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046321",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046321"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "XpertIdea IT Solutions",
+            "companyTagline": "Result-oriented IT solution provider",
+            "companyFounded": 2022,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/44678/ae26c0961c/hWhx69Go_400x400/7059c9241b6b152580b86ccfa9c4efa7.webp",
+            "instahyreNote": "Xpertidea is a global technology company delivering high-quality and result-oriented IT solutions across web development, digital marketing, UI UX designing, mobility, and more to diverse industry segments. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/44678"
+        },
+        "job": {
+            "candidateTitle": "Sr. PHP Developer",
+            "title": "Sr. PHP Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-286227-sr-php-developer-at-xpertidea-it-solutions-chandigarh/",
+            "locations": "Chandigarh",
+            "isInternship": false,
+            "keywords": [
+                "PHP",
+                "Drupal",
+                "Laravel",
+                "Wordpress"
+            ],
+            "employerCompanyName": "XpertIdea IT Solutions",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/44678/ae26c0961c/hWhx69Go_400x400/7059c9241b6b152580b86ccfa9c4efa7.webp",
+            "id": 286227,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/286227"
+        },
+        "score": "2.835",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045916",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045916"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "HDFC ERGO",
+            "companyTagline": "Offering general insurance products",
+            "companyFounded": 2002,
+            "employeeCount": 1000,
+            "profileImageSrc": "https://static.instahyre.com/images/employers/placeholder.webp",
+            "instahyreNote": "HDFC ERGO General Insurance offers General Insurance products like Motor, Health, Travel, Home & Personal Accident for Retail & Property, Marine & Liability Insurance for Corporates.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/19156"
+        },
+        "job": {
+            "candidateTitle": "Backend Developer",
+            "title": "Backend Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-281571-backend-developer-at-hdfc-ergo-mumbai/",
+            "locations": "Mumbai",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "Java",
+                "Android",
+                "PostgreSQL",
+                "AWS"
+            ],
+            "employerCompanyName": "HDFC ERGO",
+            "employerProfileUrl": "https://static.instahyre.com/images/employers/placeholder.webp",
+            "id": 281571,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/281571"
+        },
+        "score": "2.136",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046313",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046313"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Debut Infotech",
+            "companyTagline": "Web & Mobile App Development Company USA | Blockchain Development",
+            "companyFounded": 2011,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/12601/f64032fccc/0_-_2019-07-16T112611.776/033026011de471d0cface3ca308bdcb5.webp",
+            "instahyreNote": "Debut Infotech is an IT & Services company that specializes in Mobile Application Development, Offshore Website Development, Application Integration, BlockChain Development, etc.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/12601"
+        },
+        "job": {
+            "candidateTitle": "React Developer",
+            "title": "React Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-326663-react-developer-at-debut-infotech-mohali/",
+            "locations": "Mohali",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "React Native",
+                "TypeScript",
+                "Redux",
+                "Next.js"
+            ],
+            "employerCompanyName": "Debut Infotech",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/12601/f64032fccc/0_-_2019-07-16T112611.776/033026011de471d0cface3ca308bdcb5.webp",
+            "id": 326663,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/326663"
+        },
+        "score": "2.667",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046309",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046309"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "JiyoFullest",
+            "companyTagline": "We are a personalized coaching platform",
+            "companyFounded": 2017,
+            "employeeCount": 1,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/41436/ef7da6a66d/1519879687920/0623b7da5d75957d9495866b03558fcd.jfif",
+            "instahyreNote": "JiyoFullest is a technology-enabled personalized coaching platform that empowers individuals with a wide range of coaching solutions for the life, entrepreneurship, and professional growth of youths. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/41436"
+        },
+        "job": {
+            "candidateTitle": "React Developer",
+            "title": "React Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-307551-react-developer-at-jiyofullest-work-from-home/",
+            "locations": "Work From Home",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "React.js",
+                "CSS",
+                "Node.js",
+                "HTML"
+            ],
+            "employerCompanyName": "JiyoFullest",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/41436/ef7da6a66d/1519879687920/0623b7da5d75957d9495866b03558fcd.jfif",
+            "id": 307551,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/307551"
+        },
+        "score": "2.079",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046308",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046308"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "LuminoGuru",
+            "companyTagline": "We don’t stop tinkering until the work inspires",
+            "companyFounded": 2013,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/37067/d36ff535d7/1550036321460/5b09bdd3618a5f0f3f4a2767d5e8d585.webp",
+            "instahyreNote": "LuminoGuru is an intelligent technology solutions company that offers services for web and mobile application development, eCommerce, AI, QA testing, and IoT app development to several startups and entrepreneurs. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/37067"
+        },
+        "job": {
+            "candidateTitle": "PHP Developer",
+            "title": "PHP Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-310794-php-developer-at-luminoguru-chandigarh-mohali/",
+            "locations": "Chandigarh,Mohali",
+            "isInternship": false,
+            "keywords": [
+                "PHP",
+                "Laravel"
+            ],
+            "employerCompanyName": "LuminoGuru",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/37067/d36ff535d7/1550036321460/5b09bdd3618a5f0f3f4a2767d5e8d585.webp",
+            "id": 310794,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/310794"
+        },
+        "score": "7.134",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045914",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045914"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Dukaan Dost",
+            "companyTagline": "A B2B marketplace for textile industry",
+            "companyFounded": 2022,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46427/8b9f4cf513/dukaan_dost_logo/4818891f3a8b2c06b3ef3628bab154c8.webp",
+            "instahyreNote": "Dukaan Dost is a B2B e-commerce marketplace empowering small-scale retailers, manufacturers, wholesalers, and traders to trade across the entire textile value chain, from yarn to finished clothes and accessories. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/46427"
+        },
+        "job": {
+            "candidateTitle": "Senior Full Stack Developer",
+            "title": "Senior Full Stack Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-307547-senior-full-stack-developer-at-dukaan-dost-mumbai/",
+            "locations": "Mumbai",
+            "isInternship": false,
+            "keywords": [
+                "React.js",
+                "Node.js",
+                "Flutter",
+                "AWS",
+                "CI - CD"
+            ],
+            "employerCompanyName": "Dukaan Dost",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/46427/8b9f4cf513/dukaan_dost_logo/4818891f3a8b2c06b3ef3628bab154c8.webp",
+            "id": 307547,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/307547"
+        },
+        "score": "2.839",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046306",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046306"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Bhavna Corp",
+            "companyTagline": "Think Locally | Work Globally",
+            "companyFounded": 2013,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/10466/04c8919e97/0_-_2019-05-01T182154.335/4063baf55292e6fffadab85d96776e7d.webp",
+            "instahyreNote": "Bhavna Corp is an Information Technology & Services company that provides a combination of services such as engineering consultancy, offshore engineering services & turnkey solutions.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/10466"
+        },
+        "job": {
+            "candidateTitle": "Full Stack Developer",
+            "title": "Full Stack Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-326265-full-stack-developer-at-bhavna-corp-jaipur/",
+            "locations": "Jaipur",
+            "isInternship": false,
+            "keywords": [
+                "React.js",
+                "Node.js",
+                "MySQL",
+                "Project Management",
+                "Express.js"
+            ],
+            "employerCompanyName": "Bhavna Corp",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/10466/04c8919e97/0_-_2019-05-01T182154.335/4063baf55292e6fffadab85d96776e7d.webp",
+            "id": 326265,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/326265"
+        },
+        "score": "1.876",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046304",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046304"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Chetu",
+            "companyTagline": "World-Class Software Development Solutions",
+            "companyFounded": 2000,
+            "employeeCount": 1000,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/3755/ceded8a2d3/logo/12a48bfd2f03664a37f9d200d1e0dcbd.webp",
+            "instahyreNote": "Chetu is a US-based software development company that provides businesses worldwide with custom technology solutions such as development of desktop, mobile & web-based apps with on-demand developers.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/3755"
+        },
+        "job": {
+            "candidateTitle": "Shopify Developer",
+            "title": "Shopify Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-324830-shopify-developer-at-chetu-roorkee/",
+            "locations": "Roorkee",
+            "isInternship": false,
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "employerCompanyName": "Chetu",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/3755/ceded8a2d3/logo/12a48bfd2f03664a37f9d200d1e0dcbd.webp",
+            "id": 324830,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/324830"
+        },
+        "score": "2.222",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046301",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046301"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Reverie Language Technologies",
+            "companyTagline": "Language equality on internet",
+            "companyFounded": 2009,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/4506/16a6968c48/Reverie/5d87b98aaf491191249de7e8f689af03.webp",
+            "instahyreNote": "Reverie Language Technologies is an IT & Services organization that provides services related to Language as a Service (LaaS) Platform, Multilingual, Multi-mode Keyboard, Natural Language Processing, etc.",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/4506"
+        },
+        "job": {
+            "candidateTitle": "Full - Stack Engineer",
+            "title": "Full - Stack Engineer",
+            "gender": 0,
+            "opportunityUrl": "/job-318284-full-stack-engineer-at-reverie-language-technologies-bangalore/",
+            "locations": "Bangalore",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "React.js",
+                "Express.js"
+            ],
+            "employerCompanyName": "Reverie Language Technologies",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/4506/16a6968c48/Reverie/5d87b98aaf491191249de7e8f689af03.webp",
+            "id": 318284,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/318284"
+        },
+        "score": "2.197",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046299",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046299"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "CloudNow Technologies",
+            "companyTagline": "Taking the cloud by storm",
+            "companyFounded": 2014,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/47646/0b5c797e0e/295206013_421570546655834_7027772814910671406/11a2bdcb86db863c4e136cea1d7479eb.webp",
+            "instahyreNote": "CloudNow Technologies is an IT company specializing in cloud migration, infrastructure management, optimization, security, automation, DevOps consulting, and custom application development services. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/47646"
+        },
+        "job": {
+            "candidateTitle": "Java Developer",
+            "title": "Java Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-322583-java-developer-at-cloudnow-technologies-chennai/",
+            "locations": "Chennai",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "Java",
+                "Data Structures",
+                "Hibernate"
+            ],
+            "employerCompanyName": "CloudNow Technologies",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/47646/0b5c797e0e/295206013_421570546655834_7027772814910671406/11a2bdcb86db863c4e136cea1d7479eb.webp",
+            "id": 322583,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/322583"
+        },
+        "score": "1.970",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694046298",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694046298"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "OpenGrowth",
+            "companyTagline": "Leadership for all",
+            "companyFounded": 2018,
+            "employeeCount": 1,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/27991/c56a6e9e3a/Display_Pic_OG/68509d9c707225a1cef1db348dac94bd.webp",
+            "instahyreNote": "OpenGrowth is a venture incubation and holding company, helping entrepreneurs and SMEs. They cater opportunities in new media, education, social impact as well as AI-powered GRC, CRM and hub technologies. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/27991"
+        },
+        "job": {
+            "candidateTitle": "PHP Developer",
+            "title": "PHP Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-311291-php-developer-at-opengrowth-work-from-home/",
+            "locations": "Work From Home",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "PHP",
+                "Python",
+                "CodeIgniter",
+                "Django",
+                "Laravel"
+            ],
+            "employerCompanyName": "OpenGrowth",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/27991/c56a6e9e3a/Display_Pic_OG/68509d9c707225a1cef1db348dac94bd.webp",
+            "id": 311291,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/311291"
+        },
+        "score": "4.062",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045918",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045918"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "EncoreSky Technologies",
+            "companyTagline": "Small details make a big impression",
+            "companyFounded": 2016,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/33064/deb52946ca/1557472513723/462606dcae2eb5d9cce6e8083ff50f16.webp",
+            "instahyreNote": "EncoreSky Technologies is an IT startup focusing on a range of services including website development, mobile app development, iOS, and android development for different business verticals. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/33064"
+        },
+        "job": {
+            "candidateTitle": "Sr. Software Engineer",
+            "title": "Sr. Software Engineer",
+            "gender": 0,
+            "opportunityUrl": "/job-305199-sr-software-engineer-at-encoresky-technologies-indore/",
+            "locations": "Indore",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "PHP",
+                "CodeIgniter",
+                "Laravel"
+            ],
+            "employerCompanyName": "EncoreSky Technologies",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/33064/deb52946ca/1557472513723/462606dcae2eb5d9cce6e8083ff50f16.webp",
+            "id": 305199,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/305199"
+        },
+        "score": "6.724",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045911",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045911"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "ChicMic",
+            "companyTagline": "Outsourcing partner for app & game development",
+            "companyFounded": 2012,
+            "employeeCount": 50,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/34369/1055743af2/1519904025574/d86ef4404697a3a5b230235d877308c7.webp",
+            "instahyreNote": "ChicMic is a mobile-focused software development company with core expertise in application and game development and offers consultation services for all major platforms that include android, ios, and web. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/34369"
+        },
+        "job": {
+            "candidateTitle": "PHP Developer",
+            "title": "PHP Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-323263-php-developer-at-chicmic-chandigarh-mohali/",
+            "locations": "Chandigarh,Mohali",
+            "isInternship": false,
+            "keywords": [
+                "PHP",
+                "CodeIgniter",
+                "Laravel",
+                "Wordpress"
+            ],
+            "employerCompanyName": "ChicMic",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/34369/1055743af2/1519904025574/d86ef4404697a3a5b230235d877308c7.webp",
+            "id": 323263,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/323263"
+        },
+        "score": "2.708",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045903",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045903"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Yogpath Wellness",
+            "companyTagline": "Bringing happiness in life with holistic wellness approach",
+            "companyFounded": 2020,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/34900/a4faa05b2d/Yogpath-Social-Logo/794121cc3923d4bcf4eb7737c2770246.webp",
+            "instahyreNote": "Yogpath is a technology-backed wellness platform that is engaged in delivering yoga, meditation, natural therapy, and overall healthcare services by partnering with experts and yoga professionals. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/34900"
+        },
+        "job": {
+            "candidateTitle": "Mern Stack Developer",
+            "title": "Mern Stack Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-322067-mern-stack-developer-at-yogpath-wellness-delhi/",
+            "locations": "Delhi",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "Node.js",
+                "React.js"
+            ],
+            "employerCompanyName": "Yogpath Wellness",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/34900/a4faa05b2d/Yogpath-Social-Logo/794121cc3923d4bcf4eb7737c2770246.webp",
+            "id": 322067,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/322067"
+        },
+        "score": "14.167",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045899",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045899"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "OpenGrowth",
+            "companyTagline": "Leadership for all",
+            "companyFounded": 2018,
+            "employeeCount": 1,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/27991/c56a6e9e3a/Display_Pic_OG/68509d9c707225a1cef1db348dac94bd.webp",
+            "instahyreNote": "OpenGrowth is a venture incubation and holding company, helping entrepreneurs and SMEs. They cater opportunities in new media, education, social impact as well as AI-powered GRC, CRM and hub technologies. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/27991"
+        },
+        "job": {
+            "candidateTitle": "PHP Developer",
+            "title": "PHP Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-311289-php-developer-at-opengrowth-work-from-home/",
+            "locations": "Work From Home",
+            "isInternship": false,
+            "keywords": [
+                "Node.js",
+                "PHP",
+                "Python",
+                "CodeIgniter",
+                "Laravel"
+            ],
+            "employerCompanyName": "OpenGrowth",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/27991/c56a6e9e3a/Display_Pic_OG/68509d9c707225a1cef1db348dac94bd.webp",
+            "id": 311289,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/311289"
+        },
+        "score": "4.875",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045898",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045898"
+    },
+    {
+        "reviewedAt": null,
+        "isActive": true,
+        "employer": {
+            "companyName": "Leistung",
+            "companyTagline": "The company provides solutions with most advanced technology",
+            "companyFounded": 2017,
+            "employeeCount": 10,
+            "profileImageSrc": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/45820/67532096cd/leistung_technologies_logo/fe32c011918178f6baa78aebda8afd9b.webp",
+            "instahyreNote": "Leistung is a fire safety solutions company providing independent consulting and engineering solutions in for critical infrastructure and process industries to enhance sustainability and ease of construction. ",
+            "resourceUri": "/api/v1/candidate_opportunity_employer/45820"
+        },
+        "job": {
+            "candidateTitle": "Full Stack Developer",
+            "title": "Full Stack Developer",
+            "gender": 0,
+            "opportunityUrl": "/job-300247-full-stack-developer-at-leistung-mysuru/",
+            "locations": "Mysuru",
+            "isInternship": false,
+            "keywords": [
+                "JavaScript",
+                "jQuery",
+                "Node.js",
+                "React.js",
+                "Java",
+                "Angular",
+                "J2EE",
+                "Spring"
+            ],
+            "employerCompanyName": "Leistung",
+            "employerProfileUrl": "https://media.instahyre.com/CACHE/images/images/profile/base/employer/45820/67532096cd/leistung_technologies_logo/fe32c011918178f6baa78aebda8afd9b.webp",
+            "id": 300247,
+            "acceptOutstation": true,
+            "resourceUri": "/api/v1/candidatejob/300247"
+        },
+        "score": "3.868",
+        "isLocationMatch": true,
+        "isStrongMatch": true,
+        "id": "4694045885",
+        "message": null,
+        "interviewStatus": 0,
+        "creationSource": 0,
+        "resourceUri": "/api/v1/candidate_opportunity/4694045885"
+    }
+]
